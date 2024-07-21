@@ -64,7 +64,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li>
       <strong>[2021.06]</strong>: 
-      <strong>Outstanding Graduate</strong>, Granted by: <strong>Zhejiang Provincial Education Department, China</strong>
+      Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China
       </li>
   </ul>
 </div>
