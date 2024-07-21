@@ -20,8 +20,9 @@ redirect_from:
 
 Biography
 ======
-I'm a final-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I was supervised by Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
-I obtained the BSc and MSc degrees supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/) in computer science from Zhejiang University of Technology (ZJUT).
+I'm a final-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
+Also, I was supervised by Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
+Before that, I obtained the BSc and MSc degrees supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/) in computer science from Zhejiang University of Technology (ZJUT).
 
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through <a href="mailto:hahahenha@gmail.com">hahahenha@gmail.com</a>
