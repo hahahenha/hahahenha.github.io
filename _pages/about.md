@@ -49,7 +49,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li>
       <strong>[TVT]</strong>: 
-      <a href='https://ieeexplore.ieee.org/document/10586793'>Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles></a><br>
+      <a href='https://ieeexplore.ieee.org/document/10586793'>Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles></a>
+      
       <strong>Xiao Han</strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao
       </li>
   </ul>
