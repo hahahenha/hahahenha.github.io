@@ -31,7 +31,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <style>
   .scrollable {
-    max-height: 240px; /* 设置最大高度 */
+    max-height: 2000px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
