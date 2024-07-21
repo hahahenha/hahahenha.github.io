@@ -39,8 +39,19 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <!-- <div class="scrollable"> -->
 <div>
   <ul>
-    <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks and third place 🥉 in 3 tracks, <b>Overall 2/508</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
     <li><strong>[2024.07]</strong>: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
   </ul>
 </div>
 
+# 📝 Publications
+
+## Conference and Journal Publications
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/2024/tmp.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+*Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles*
+
+**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao
+
+</div>
+</div>
