@@ -47,8 +47,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <ol>
   <li>
-    <Strong>xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao, Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
-    <em>IEEE Transactions on Vehicular Technology</em>,
+    <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao, Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
+    <em>IEEE Transactions on Vehicular Technology</em>.
     <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[PDF]</a>
   </li>
 </ol>
