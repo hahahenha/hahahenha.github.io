@@ -52,3 +52,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <li><strong>[TVT]</strong>: [Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles](https://ieeexplore.ieee.org/document/10586793)<br>**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao</li>
   </ul>
 </div>
+
+# 🎖 Honors and Awards
+
+- *2020.12* **Outstanding Graduate**, Granted by **Zhejiang Province, China**
