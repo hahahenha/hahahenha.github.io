@@ -55,4 +55,4 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🎖 Honors and Awards
 
-- *2020.12* **Outstanding Graduate**, Granted by **Zhejiang Province, China**
+- *2021.06* **Outstanding Graduate**, Granted by **Zhejiang Provincial Education Department, China**
