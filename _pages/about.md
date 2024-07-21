@@ -7,13 +7,22 @@ redirect_from:
   - /about.html
 ---
 
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
+
+<span class='anchor' id='about-me'></span>
+
 <br>
 
 Biography
 ======
-I'm a third-year undergraduate student from [City University of Hong Kong](https://www.cityu.edu.hk). My research interests include city computing, Recommender Systems, and learning theory.
+I'm a final-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/). Before that, I was supervised by Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). I graduated from My research interests include city computing, Recommender Systems, and learning theory.
 
-
+# 🔥 News
 
 A data-driven personal website
 ======
