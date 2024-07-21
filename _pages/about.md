@@ -50,10 +50,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <li>
       <strong>[TVT]</strong>: 
       Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles
-      
+      <br></br>
       <strong>Xiao Han</strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao
-
-      PDF: <a href='https://ieeexplore.ieee.org/document/10586793'>https://ieeexplore.ieee.org/document/10586793</a>
+      <br></br>
+      <a href='https://ieeexplore.ieee.org/document/10586793'>PDF</a>
       </li>
   </ul>
 </div>
