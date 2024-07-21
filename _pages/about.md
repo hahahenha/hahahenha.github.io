@@ -40,18 +40,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div>
   <ul>
     <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks and third place 🥉 in 3 tracks, <b>Overall 2/508</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
-    <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
-    <li><strong>2024.05</strong>: Our paper ERASE got accepted by <b>KDD'24 ADS Track</b>.</li>
-    <li><strong>2024.05</strong>: I am honored to be selected as a virtual volunteer for NAACL'2024.</li>
-    <li><strong>2024.03</strong>: I will serve as the PC member in <b>CIKM'24</b>.</li>
-    <li><strong>2024.03</strong>: Our paper MILL got accepted by <b>NAACL'2024</b> (Main Conference)</li>
-    <li><strong>2024.03</strong>: Passed my qualifying examination!</li>
-    <li><strong>2023.12</strong>: I am honored to receive the AAAI'24 student scholarship </li>
-    <li><strong>2023.12</strong>: Accepted as reviewer of ACM Transactions on Knowledge Discovery from Data (ACM TKDD) </li>
-    <li><strong>2023.12</strong>: One paper accepted by <b>AAAI'24</b> </li>
-    <li><strong>2023.08</strong>: I will serve as the PC member in <b>AAAI'24</b>  </li>
-    <li><strong>2023.04</strong>: Our tutorial on Joint Modeling in Recommendations is accepted by <b>IJCAI'23</b> </li>
-    <li><strong>2023.01</strong>: Start my PhD study at CityU. </li>
+    <li><strong>[2024.07]</strong>: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
   </ul>
 </div>
 
