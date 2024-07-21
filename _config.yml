@@ -135,8 +135,11 @@ analytics:
   provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
+
+    
 # Reading Files
-@@ -148,12 +66,15 @@ include:
+include:
+  - .htaccess
   - _pages
   - files
 exclude:
@@ -152,10 +155,25 @@ exclude:
   - CHANGELOG
   - Capfile
   - Gemfile
-@@ -197,78 +118,15 @@ kramdown:
-  smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
-
+  - Gruntfile.js
+  - LICENSE
+  - README
+  - Rakefile
+  - assets/js/_main.js
+  - assets/js/plugins
+  - assets/js/vendor
+  - config
+  - gulpfile.js
+  - log
+  - node_modules
+  - package.json
+  - tmp
+  - vendor
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Collections
 collections:
@@ -232,7 +250,10 @@ defaults:
 
 
 # Sass/SCSS
-@@ -279,9 +137,7 @@ sass:
+sass:
+  sass_dir: _sass
+  style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
 
 # Outputting
 permalink: /:categories/:title/
