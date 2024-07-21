@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-*Biography
-
+Biography
+======
 I'm a third-year undergraduate student from [City University of Hong Kong](https://www.cityu.edu.hk). My research interests include city computing, Recommender Systems, and learning theory.
 
 
