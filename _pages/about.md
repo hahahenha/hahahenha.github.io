@@ -52,12 +52,3 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <li><strong>[TVT]</strong>: [Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles](https://ieeexplore.ieee.org/document/10586793)<br>**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao</li>
   </ul>
 </div>
-
-
-
-
-<!-- [**Home Page**](https://applied-machine-learning-lab.github.io/ERASE/) \| [**Paper**](https://arxiv.org/abs/2403.12660) \|  [**Code**](https://github.com/Applied-Machine-Learning-Lab/ERASE) \| [**Dataset**](https://portland-my.sharepoint.com/:f:/g/personal/pyjia2-c_my_cityu_edu_hk/Eig99ijVRYZHuo6mBrJA5jIBioFU8vwATcRYeLLlYFSUAg)
--->
-
-</div>
-</div>
