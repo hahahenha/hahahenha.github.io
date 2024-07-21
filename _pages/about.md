@@ -29,17 +29,15 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # 🔥 News
 
-<style>
+<!-- <style>
   .scrollable {
     max-height: 2000px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
-</style>
+</style> -->
 
-<!-- <font color="red></font>
-<a href=""></a> -->
-
-<div class="scrollable">
+<!-- <div class="scrollable"> -->
+<div>
   <ul>
     <li><strong>2024.07</strong>: Our team AML_Lab@CityU got second place🥈 in 2 tracks and third place 🥉 in 3 tracks, <b>Overall 2/508</b> in <b>Amazon KDD CUP 2024</b>! A big shoutout to the awesome teamwork with my teammates Jingtong, Xiaopeng, Zixuan, and Yiyao!</li>
     <li><strong>2024.07</strong>: I'm honored to receive the KDD'24 student travel award.</li>
