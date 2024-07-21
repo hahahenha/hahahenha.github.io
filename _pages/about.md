@@ -49,12 +49,21 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div>
   <ul>
-    <li><strong>[TVT]</strong>: [Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles](https://ieeexplore.ieee.org/document/10586793)<br>**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao</li>
+    <li>
+      <strong>[TVT]</strong>: 
+      <a href='https://ieeexplore.ieee.org/document/10586793'>Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles></a><be>
+      <strong>Xiao Han</strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao
+      </li>
   </ul>
 </div>
 
 # Honors and Awards
 
+<div>
+  <ul>
+    <li><strong>[2021.06]</strong>: [Deep Trajectory Outstanding Graduate<br>**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao</li>
+  </ul>
+</div>
 - *2021.06* **Outstanding Graduate**, Granted by **Zhejiang Provincial Education Department, China**
 
 # Internships & Exchange
