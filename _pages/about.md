@@ -47,7 +47,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 ## Conference and Journal Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/2024/tmp.png' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TVT</div><img src='images/2024/tmp.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles*
 
