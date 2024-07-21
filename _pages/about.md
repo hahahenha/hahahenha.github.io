@@ -61,15 +61,20 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div>
   <ul>
-    <li><strong>[2021.06]</strong>: [Deep Trajectory Outstanding Graduate<br>**Xiao Han**, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao</li>
+    <li>
+      <strong>[2021.06]</strong>: 
+      <strong>Outstanding Graduate</strong>, Granted by: <strong>Zhejiang Provincial Education Department, China</strong>
+      </li>
   </ul>
 </div>
-- *2021.06* **Outstanding Graduate**, Granted by **Zhejiang Provincial Education Department, China**
 
 # Internships & Exchange
 
 <div>
   <ul>
-    <li><strong>[2023.11-2024.07]</strong>: Research Intern, Career Science Lab in BOSS Zhipin.</li>
+    <li>
+      <strong>[2023.11-2024.07]</strong>: 
+      Research Intern, Career Science Lab in BOSS Zhipin.
+      </li>
   </ul>
 </div>
