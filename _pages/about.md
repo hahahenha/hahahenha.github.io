@@ -27,7 +27,7 @@ Before that, I obtained the BSc and MSc degrees in computer science at [CSSC Lab
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through <a href="mailto:hahahenha@gmail.com">hahahenha@gmail.com</a>
 
-# 🔥 News
+# News
 
 <!-- <style>
   .scrollable {
@@ -43,7 +43,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </ul>
 </div>
 
-# 📝 Publications
+# Publications
 
 ## Conference and Journal Publications
 
@@ -53,6 +53,14 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </ul>
 </div>
 
-# 🎖 Honors and Awards
+# Honors and Awards
 
 - *2021.06* **Outstanding Graduate**, Granted by **Zhejiang Provincial Education Department, China**
+
+# Internships & Exchange
+
+<div>
+  <ul>
+    <li><strong>[2023.11-2024.07]</strong>: Research Intern, Career Science Lab in BOSS Zhipin.</li>
+  </ul>
+</div>
