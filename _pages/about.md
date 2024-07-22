@@ -80,6 +80,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
       <strong>[2021.06]</strong>: 
       Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China
       </li>
+    <li>
+      <strong>[2020.09]</strong>: 
+      National Scholarship, Granted by: Ministry of Education, China
+      </li>
   </ul>
 </div>
 
