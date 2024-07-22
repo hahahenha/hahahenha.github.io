@@ -5,6 +5,23 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
+redirect_to: "https://www.overleaf.com/read/phghmspgpbfh#05df8c"
+---
+
+{% include base_path %}
+
+<script type="text/javascript">
+  window.location.href = "{{ page.redirect_to }}";
+</script>
+
+<!--
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
 ---
 
 {% include base_path %}
@@ -62,3 +79,4 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
