@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-redirect_to: "https://www.overleaf.com/read/phghmspgpbfh#05df8c"
+redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 ---
 
 {% include base_path %}
