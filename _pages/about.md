@@ -89,7 +89,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li>
       <strong>[2023.11-2024.07]</strong>: 
-      Research Intern, Career Science Lab in BOSS Zhipin.
+      Research Intern, Career Science Lab in BOSS Zhipin. Group leader: [Hengshu Zhu](https://www.zhuhengshu.com/).
       </li>
   </ul>
 </div>
