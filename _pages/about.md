@@ -65,12 +65,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[PDF]</a>
   </li>
   <li>
-    <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang,
-    Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning,
-    <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’23), Research Track</em>.
-    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[PDF]</a>
-  </li>
-  <li>
     <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong,
     Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network,
     <em>Transportation Research Part C: Emerging Technologies</em>.
