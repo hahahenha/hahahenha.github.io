@@ -141,8 +141,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <h2> Indoor Positioning APP </h2>
                             <p>The location of the target is accurately located through the signal strength of multiple wifi and Bluetooth beacons distributed indoors.</p>
                             <iframe width="560" height="315" src="https://www.hahahenha.net/static/CV/video/project-5.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                            	<source src="https://www.hahahenha.net/static/video/project-5.mp4" type="video/mp4">
-                            </video>
                         </li>
                         <li>
                             <div class="circle"></div>
