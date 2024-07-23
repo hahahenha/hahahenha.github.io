@@ -82,8 +82,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Projects
 
-<script type="text/javascript" src="../assets/js/hivideo.js"></script>
-
 <div>
   <ul>
     <li>
@@ -142,7 +140,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <div class="circle"></div>
                             <h2> Indoor Positioning APP </h2>
                             <p>The location of the target is accurately located through the signal strength of multiple wifi and Bluetooth beacons distributed indoors.</p>
-                            <video ishivideo="true" autoplay="false" isrotate="false" autoHide="true">
+                            <iframe width="560" height="315" src="https://www.hahahenha.net/static/video/project-5.mp4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                             	<source src="https://www.hahahenha.net/static/video/project-5.mp4" type="video/mp4">
                             </video>
                         </li>
