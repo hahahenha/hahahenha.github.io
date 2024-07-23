@@ -93,7 +93,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li>
       <strong>[2023.11-2024.07]</strong>: 
-      Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>.
+      Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.
       </li>
     <li>
       <strong>[2021.09-Present]</strong>: 
@@ -101,7 +101,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
       </li>
     <li>
       <strong>[2020.09-2020.12]</strong>: 
-      Visiting Student, City University of Hong Kong.
+      Visiting Student, City University of Hong Kong. Supervisor: Kwai-Sang Chin.
+      </li>
+    <li>
+      <strong>[2020.09-2020.12]</strong>: 
+      Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou.
       </li>
   </ul>
 </div>
