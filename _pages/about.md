@@ -82,6 +82,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Projects
 
+<script type="text/javascript" src="js/hivideo.js"></script>
+
 <div>
   <ul>
     <li>
