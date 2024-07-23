@@ -101,7 +101,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
       </li>
     <li>
       <strong>[2020.09-2020.12]</strong>: 
-      Visiting Student, City University of Hong Kong. Supervisor: Kwai-Sang Chin.
+      Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.
       </li>
     <li>
       <strong>[2020.09-2020.12]</strong>: 
