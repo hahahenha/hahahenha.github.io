@@ -40,4 +40,22 @@ author_profile: true
     <em>Transportation Research Part C: Emerging Technologies</em>.
     <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[PDF]</a>
   </li>
+  <li>
+    Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, <Strong>Xiao Han</Strong>, Jiaxin Du, Xiangyu Zhao, and Xiangjie Kong,
+    KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation,
+    <em>The 33rd International Joint Conference on Artificial Intelligence (IJCAI'2024)</em>.
+    <a target="_blank" rel="noopener" href="https://ijcai24.org/main-track-accepted-papers/">[PDF]</a>
+  </li>
+  <li>
+    Yan Zhang, Guojiang Shen, <Strong>Xiao Han</Strong>, Wei Wang, and Xiangjie Kong,
+    Spatio-temporal digraph convolutional network-based taxi pickup location recommendation,
+    <em>IEEE Transactions on Industrial Informatics</em>.
+    <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9793719">[PDF]</a>
+  </li>
+  <li>
+    Guojiang Shen, <Strong>Xiao Han</Strong>, Kwai Sang Chin, and Xiangjie Kong,
+    An attention-based digraph convolution network enabled framework for congestion recognition in three-dimensional road networks,
+    <em>IEEE Transactions on Intelligent Transportation Systems</em>.
+    <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9626455">[PDF]</a>
+  </li>
 </ol>
