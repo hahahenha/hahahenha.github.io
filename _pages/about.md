@@ -41,6 +41,14 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li><strong>[2024.07]</strong>: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
   </ul>
+  
+  <ul>
+    <li><strong>[2024.07]</strong>: One paper has been accepted by KDD 2024, research track.</li>
+  </ul>
+  
+  <ul>
+    <li><strong>[2024.07]</strong>: One paper has been accepted by KDD 2023, research track.</li>
+  </ul>
 </div>
 
 # Selected Publications
