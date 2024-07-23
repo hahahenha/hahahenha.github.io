@@ -86,7 +86,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <ul>
     <li>
                             <div class="circle"></div>
-                            <h4>Signal Timing: "City Brain" Project in Xiaoshan District, Hangzhou, Zhejiang Province</h4>
+                            <h2>Signal Timing: "City Brain" Project in Xiaoshan District, Hangzhou, Zhejiang Province</h2>
                             <p>Deploy adaptive-signal-control algorithm for all intersections with signal control in Xiaoshan District。</p>
                             <img src="../img/project-1.1.JPG" height="340px" width="540px">
                             <p>The comparison between before (left) and after (right) deployment of the algorithm is as follows:</p>
@@ -95,7 +95,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4>Special Vehicles First System</h4>
+                            <h2>Special Vehicles First System</h2>
                             <p>The project aims to open a emergency channel for special vehicles (e.g. ambulances).</p>
                             <img src="../img/project-2.1.JPG" height="304px" width="540px">
                             <p>When vehicles are going to pass through the intersection, the signal lights lock the green light in advance. It will release queued vehicles and ensure that the target vehicle does not stop at intersection and pass safely.</p>
@@ -105,7 +105,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4>The Display System in Hangzhou Transportation Administration of Zhejiang Province</h4>
+                            <h2>The Display System in Hangzhou Transportation Administration of Zhejiang Province</h2>
                             <p>A comprehensive display system of data collected by various detectors in Hangzhou.</p>
                             <img src="../img/project-3.1.JPG" height="101px" width="180px">
                             <img src="../img/project-3.2.JPG" height="101px" width="180px">
@@ -116,29 +116,29 @@ If you are interested in collaborating with me or want to have a chat, always fe
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4>Imitation of Unix file system
+                            <h2>Imitation of Unix file system
                                 <a href="https://github.com/hahahenha/UnixFilesystem">
                                     <i nclass="icon-link"></i>Source Code</a>
-                            </h4>
+                            </h2>
                             <p>A file system that simulates the underlying storage of Unix systems with basic file operations.</p>
                         </li>
     
                          <li>
                             <div class="circle"></div>
-                            <h4>Tea——A Web Design Project
+                            <h2>Tea——A Web Design Project
                             	<a href="https://www.hahahenha.ga/alpha-test/tea">
                                     <i nclass="icon-link"></i>Go to</a>
-                            </h4>
+                            </h2>
                             <p>Design and complete a beautiful front-end website.</p>
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4> OA System </h4>
+                            <h2> OA System </h2>
                             <p>It is written in .NET language and integrates modules such as login, hierarchical notification, personal attendance, schedule, online meeting, workflow design and management, work plan, mail system, asset management, electronic seal management, contract record, system operation log, etc. It has greatly promoted the management of leaders at all levels, coordinated exchange of information between various departments, and the safe, stable and reliable transmission of information inside and outside the department, which facilitates the realization of distributed office and mobile office for all employees.</p>
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4> Indoor Positioning APP </h4>
+                            <h2> Indoor Positioning APP </h2>
                             <p>The location of the target is accurately located through the signal strength of multiple wifi and Bluetooth beacons distributed indoors.</p>
                             <video ishivideo="true" autoplay="false" isrotate="false" autoHide="true">
                             	<source src="https://www.hahahenha.net/static/video/project-5.mp4" type="video/mp4">
@@ -146,13 +146,13 @@ If you are interested in collaborating with me or want to have a chat, always fe
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4> Traffic Data-fusion System </h4>
+                            <h2> Traffic Data-fusion System </h2>
                             <p>Combined with the distributed platform Spark, distributed file system HDFS, SpringBoot framework and D3.js front-end visual library are written and completed.</p>
                             <img src="../img/project-4.JPG" height="304px" width="540px">
                         </li>
                         <li>
                             <div class="circle"></div>
-                            <h4> Signal Timing Project of Jiujiang City, Jiangxi Province </h4>
+                            <h2> Signal Timing Project of Jiujiang City, Jiangxi Province </h2>
                             <p>Timing the evening peak signal for the main road of Jiujiang City.</p>
                         </li>
     
