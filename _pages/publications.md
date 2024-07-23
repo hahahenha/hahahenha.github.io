@@ -61,7 +61,7 @@ author_profile: true
     <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9626455">[PDF]</a>
   </li>
   <li>
-    uanyang Liu, Longfeng Tang, Guojiang Shen, and <Strong>Xiao Han</Strong>,
+    Duanyang Liu, Longfeng Tang, Guojiang Shen, and <Strong>Xiao Han</Strong>,
     Traffic speed prediction: An attention-based method,
     <em>IEEE Transactions on Intelligent Transportation Systems</em>.
     <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[PDF]</a>
