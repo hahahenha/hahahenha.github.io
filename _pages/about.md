@@ -88,31 +88,31 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <div class="circle"></div>
                             <h4>Signal Timing: "City Brain" Project in Xiaoshan District, Hangzhou, Zhejiang Province</h4>
                             <p>Deploy adaptive-signal-control algorithm for all intersections with signal control in Xiaoshan District。</p>
-                            <img src="img/project-1.1.JPG" height="340px" width="540px">
+                            <img src="../img/project-1.1.JPG" height="340px" width="540px">
                             <p>The comparison between before (left) and after (right) deployment of the algorithm is as follows:</p>
-                            <img src="img/project-1.2.JPG" height="200px" width="320px">
-                            <img src="img/project-1.3.JPG" height="200px" width="320px">
+                            <img src="../img/project-1.2.JPG" height="200px" width="320px">
+                            <img src="../img/project-1.3.JPG" height="200px" width="320px">
                         </li>
                         <li>
                             <div class="circle"></div>
                             <h4>Special Vehicles First System</h4>
                             <p>The project aims to open a emergency channel for special vehicles (e.g. ambulances).</p>
-                            <img src="img/project-2.1.JPG" height="304px" width="540px">
+                            <img src="../img/project-2.1.JPG" height="304px" width="540px">
                             <p>When vehicles are going to pass through the intersection, the signal lights lock the green light in advance. It will release queued vehicles and ensure that the target vehicle does not stop at intersection and pass safely.</p>
-                            <img src="img/project-2.2.JPG" height="304px" width="540px">
+                            <img src="../img/project-2.2.JPG" height="304px" width="540px">
                             <p>When the vehicle passes by the intersection, the signal lights release the green light lock as soon as possible to avoid traffic jams in other directions</p>
-                            <img src="img/project-2.3.JPG" height="304px" width="540px">
+                            <img src="../img/project-2.3.JPG" height="304px" width="540px">
                         </li>
                         <li>
                             <div class="circle"></div>
                             <h4>The Display System in Hangzhou Transportation Administration of Zhejiang Province</h4>
                             <p>A comprehensive display system of data collected by various detectors in Hangzhou.</p>
-                            <img src="img/project-3.1.JPG" height="101px" width="180px">
-                            <img src="img/project-3.2.JPG" height="101px" width="180px">
-                            <img src="img/project-3.3.JPG" height="101px" width="180px">
-                            <img src="img/project-3.4.JPG" height="101px" width="180px">
-                            <img src="img/project-3.5.JPG" height="101px" width="180px">
-                            <img src="img/project-3.6.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.1.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.2.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.3.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.4.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.5.JPG" height="101px" width="180px">
+                            <img src="../img/project-3.6.JPG" height="101px" width="180px">
                         </li>
   </ul>
 </div>
