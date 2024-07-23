@@ -43,11 +43,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </ul>
   
   <ul>
-    <li><strong>[2024.07]</strong>: One paper has been accepted by KDD 2024, research track.</li>
+    <li><strong>[2024.06]</strong>: One paper has been accepted by KDD 2024, research track.</li>
   </ul>
   
   <ul>
-    <li><strong>[2024.07]</strong>: One paper has been accepted by KDD 2023, research track.</li>
+    <li><strong>[2023.05]</strong>: One paper has been accepted by KDD 2023, research track.</li>
   </ul>
 </div>
 
