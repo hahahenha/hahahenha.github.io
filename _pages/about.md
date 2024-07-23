@@ -114,6 +114,48 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <img src="../img/project-3.5.JPG" height="101px" width="180px">
                             <img src="../img/project-3.6.JPG" height="101px" width="180px">
                         </li>
+<li>
+                            <div class="circle"></div>
+                            <h4>Imitation of Unix file system
+                                <a href="https://github.com/hahahenha/UnixFilesystem">
+                                    <i nclass="icon-link"></i>Source Code</a>
+                            </h4>
+                            <p>A file system that simulates the underlying storage of Unix systems with basic file operations.</p>
+                        </li>
+    
+                         <li>
+                            <div class="circle"></div>
+                            <h4>Tea——A Web Design Project
+                            	<a href="https://www.hahahenha.ga/alpha-test/tea">
+                                    <i nclass="icon-link"></i>展示</a>
+                            </h4>
+                            <p>Design and complete a beautiful front-end website.</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4> OA System </h4>
+                            <p>It is written in .NET language and integrates modules such as login, hierarchical notification, personal attendance, schedule, online meeting, workflow design and management, work plan, mail system, asset management, electronic seal management, contract record, system operation log, etc. It has greatly promoted the management of leaders at all levels, coordinated exchange of information between various departments, and the safe, stable and reliable transmission of information inside and outside the department, which facilitates the realization of distributed office and mobile office for all employees.</p>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4> Indoor Positioning APP </h4>
+                            <p>The location of the target is accurately located through the signal strength of multiple wifi and Bluetooth beacons distributed indoors.</p>
+                            <video ishivideo="true" autoplay="false" isrotate="false" autoHide="true">
+                            	<source src="https://www.hahahenha.net/static/video/project-5.mp4" type="video/mp4">
+                            </video>
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4> Traffic Data-fusion System </h4>
+                            <p>Combined with the distributed platform Spark, distributed file system HDFS, SpringBoot framework and D3.js front-end visual library are written and completed.</p>
+                            <img src="../img/project-4.JPG" height="304px" width="540px">
+                        </li>
+                        <li>
+                            <div class="circle"></div>
+                            <h4> Signal Timing Project of Jiujiang City, Jiangxi Province </h4>
+                            <p>Timing the evening peak signal for the main road of Jiujiang City.</p>
+                        </li>
+    
   </ul>
 </div>
 
