@@ -95,6 +95,14 @@ If you are interested in collaborating with me or want to have a chat, always fe
       <strong>[2023.11-2024.07]</strong>: 
       Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>.
       </li>
+    <li>
+      <strong>[2021.09-Present]</strong>: 
+      Researcher, Lab for AI-Powered Fintech (Hong Kong).
+      </li>
+    <li>
+      <strong>[2020.09-2020.12]</strong>: 
+      Visiting Student, City University of Hong Kong.
+      </li>
   </ul>
 </div>
 
