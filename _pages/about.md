@@ -114,7 +114,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <img src="../img/project-3.5.JPG" height="101px" width="180px">
                             <img src="../img/project-3.6.JPG" height="101px" width="180px">
                         </li>
-<li>
+                        <li>
                             <div class="circle"></div>
                             <h4>Imitation of Unix file system
                                 <a href="https://github.com/hahahenha/UnixFilesystem">
@@ -127,7 +127,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <div class="circle"></div>
                             <h4>Tea——A Web Design Project
                             	<a href="https://www.hahahenha.ga/alpha-test/tea">
-                                    <i nclass="icon-link"></i>展示</a>
+                                    <i nclass="icon-link"></i>Go to</a>
                             </h4>
                             <p>Design and complete a beautiful front-end website.</p>
                         </li>
