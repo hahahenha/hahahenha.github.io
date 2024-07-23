@@ -126,7 +126,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                          <li>
                             <div class="circle"></div>
                             <h2>Tea——A Web Design Project
-                            	<a href="https://www.hahahenha.ga/alpha-test/tea">
+                            	<a href="https://www.hahahenha.net/static/tea">
                                     <i nclass="icon-link"></i>Go to</a>
                             </h2>
                             <p>Design and complete a beautiful front-end website.</p>
