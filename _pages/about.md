@@ -82,7 +82,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Projects
 
-<script type="text/javascript" src="../asset/js/hivideo.js"></script>
+<script type="text/javascript" src="../assets/js/hivideo.js"></script>
 
 <div>
   <ul>
