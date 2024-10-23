@@ -18,6 +18,12 @@ author_profile: true
 -->
 
 <ol>
+   <li>
+    <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu,
+     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
+    <em>arXiv preprint arXiv:2408.11312</em>.
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
+  </li>
   <li>
     <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, and Jieping Ye,
     GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
