@@ -19,7 +19,13 @@ author_profile: true
 
 <ol>
   <li>
-    <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao,
+    <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, and Jieping Ye,
+    GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
+    <em>arXiv preprint arXiv:2408.10286</em>.
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[PDF]</a>
+  </li>
+  <li>
+    <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, and Yulong Zhao,
     Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
     <em>IEEE Transactions on Vehicular Technology</em>.
     <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[PDF]</a>
