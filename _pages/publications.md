@@ -55,6 +55,12 @@ author_profile: true
     <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[PDF]</a>
   </li>
   <li>
+    Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, YantongDu, <Strong>Xiao Han</Strong>, et. al.,
+G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models,
+    NeurIPS 2024, 2024.
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[PDF]</a>
+  </li>
+  <li>
     Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, <Strong>Xiao Han</Strong>, Jiaxin Du, Xiangyu Zhao, and Xiangjie Kong,
     KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation,
     <em>The 33rd International Joint Conference on Artificial Intelligence (IJCAI'2024)</em>.
