@@ -39,13 +39,13 @@ author_profile: true
   <li>
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, and Hengshu Zhu,
     Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning,
-    <em>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’24), Research Track</em>.
+    <em>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'24), Research Track</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2407.00082">[PDF]</a>
   </li>
   <li>
     <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang,
     Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning,
-    <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’23), Research Track</em>.
+    <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'23), Research Track</em>.
     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[PDF]</a>
   </li>
   <li>
@@ -57,7 +57,7 @@ author_profile: true
   <li>
     Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, YantongDu, <Strong>Xiao Han</Strong>, et. al.,
 G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models,
-    NeurIPS 2024, 2024.
+    <em>2024 Conference on Neural Information Processing Systems (NeurIPS'2024)</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[PDF]</a>
   </li>
   <li>
