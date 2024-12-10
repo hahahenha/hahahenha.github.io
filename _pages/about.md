@@ -31,7 +31,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <style>
   .scrollable {
-    max-height: 200px; /* 设置最大高度 */
+    max-height: 150px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
@@ -135,7 +135,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             </h2>
                             <p>A file system that simulates the underlying storage of Unix systems with basic file operations.</p>
                         </li>
-    
                          <li>
                             <div class="circle"></div>
                             <h2>Tea——A Web Design Project
@@ -166,7 +165,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <h2> Signal Timing Project of Jiujiang City, Jiangxi Province </h2>
                             <p>Timing the evening peak signal for the main road of Jiujiang City.</p>
                         </li>
-    
   </ul>
 </div>
 
