@@ -104,7 +104,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
                             <img src="../img/project-1.1.JPG" height="340px" width="540px">
                             <p>The comparison between before (left) and after (right) deployment of the algorithm is as follows:</p>
                             <img src="../img/project-1.2.JPG" height="200px" width="320px">
-                            <img src="../img/project-1.3.JPG" height="200px" width="320px">
+                            <img src="../img/project-1.3.JPG" height="200px" width="200px">
                         </li>
                         <li>
                             <div class="circle"></div>
