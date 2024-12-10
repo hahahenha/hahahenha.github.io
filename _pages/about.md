@@ -20,8 +20,8 @@ redirect_from:
 
 Biography
 ======
-I'm a final-year PhD candidate at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
-Also, I was supervised by Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
+I'm going to be a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
+I obtained the PhD degree in data science from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and by Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
 Before that, I obtained the BSc and MSc degrees in computer science at [CSSC Lab](https://www.cssclab.cn/) from [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/).
 
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
@@ -38,6 +38,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <!-- <div class="scrollable"> -->
 <div>
+ <ul>
+    <li><strong>[2024.07]</strong>: One paper has been accepted by AAAI 2025.</li>
+  </ul>
+  
   <ul>
     <li><strong>[2024.07]</strong>: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
   </ul>
@@ -54,6 +58,17 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # Selected Publications
 
 <ol>
+  <li>
+  <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
+    GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
+    <em>Thirty-Nine {AAAI} Conference on Artificial Intelligence (AAAI'25)</em>.
+  </li>
+   <li>
+    <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao,
+    Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
+    <em>IEEE Transactions on Vehicular Technology</em>.
+    <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[PDF]</a>
+  </li>
   <li>
     <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao,
     Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
