@@ -196,7 +196,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
       Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.
       </li>
     <li>
-      <strong>[2021.09-Present]</strong>: 
+      <strong>[2021.09-2024.12]</strong>: 
       Researcher, Lab for AI-Powered Fintech (Hong Kong).
       </li>
     <li>
