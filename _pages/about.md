@@ -37,8 +37,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
 </style>
 
 <div class="scrollable">
-  
-<div>
  <ul>
     <li><strong>[2024.12]</strong>: One paper has been accepted by AAAI 2025.</li>
   </ul>
