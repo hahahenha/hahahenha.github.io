@@ -31,15 +31,20 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <style>
   .scrollable {
-    max-height: 2000px; /* 设置最大高度 */
+    max-height: 200px; /* 设置最大高度 */
     overflow-y: scroll; /* 设置垂直滚动条 */
   }
 </style>
 
-<!-- <div class="scrollable"> -->
+<div class="scrollable">
+  
 <div>
  <ul>
-    <li><strong>[2024.07]</strong>: One paper has been accepted by AAAI 2025.</li>
+    <li><strong>[2024.12]</strong>: One paper has been accepted by AAAI 2025.</li>
+  </ul>
+  
+ <ul>
+    <li><strong>[2024.12]</strong>: One paper has been accepted by WWW 2025 tutorial.</li>
   </ul>
   
   <ul>
