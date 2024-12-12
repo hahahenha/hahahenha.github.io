@@ -66,10 +66,16 @@ G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Larg
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[PDF]</a>
   </li>
   <li>
+    Yinghui Liu, Guojiang Shen, Nali Liu, <Strong>Xiao Han</Strong>, Zhenhui Xu, Junjie Zhou, and Xiangjie Kong,
+    Traffic data imputation via knowledge graph-enhanced generative adversarial network,
+    <em>PeerJ Computer Science</em>.
+    <a target="_blank" rel="noopener" href="https://peerj.com/articles/cs-2408/">[PDF]</a>
+  </li>
+  <li>
     Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, <Strong>Xiao Han</Strong>, Jiaxin Du, Xiangyu Zhao, and Xiangjie Kong,
     KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation,
     <em>The 33rd International Joint Conference on Artificial Intelligence (IJCAI'2024)</em>.
-    <a target="_blank" rel="noopener" href="https://ijcai24.org/main-track-accepted-papers/">[PDF]</a>
+    <a target="_blank" rel="noopener" href="https://www.ijcai.org/proceedings/2024/244">[PDF]</a>
   </li>
   <li>
     Yan Zhang, Guojiang Shen, <Strong>Xiao Han</Strong>, Wei Wang, and Xiangjie Kong,
