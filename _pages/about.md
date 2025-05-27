@@ -38,6 +38,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div class="scrollable">
  <ul>
+    <li><strong>[2025.05]</strong>: One paper has been accepted by KDD 2025.</li>
+  </ul>
+  
+ <ul>
     <li><strong>[2024.12]</strong>: One paper has been accepted by AAAI 2025.</li>
   </ul>
   
@@ -61,6 +65,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # Selected Publications
 
 <ol>
+  <li>
+  <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
+    Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
+    <em>Thirty-first ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25)</em>.
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
+  </li>
   <li>
   <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
     GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
