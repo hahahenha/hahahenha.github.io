@@ -21,7 +21,7 @@ author_profile: true
    <li>
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu,
      Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
-    <em>arXiv preprint arXiv:2408.11312</em>.
+    <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
   </li>
   <li>
