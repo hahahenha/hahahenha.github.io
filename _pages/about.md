@@ -20,7 +20,7 @@ redirect_from:
 
 Biography
 ======
-I'm going to be an associate professor at [CSSC Lab](http://www.cssclab.cn/) from Zhejiang University of Technology.
+I'm going to be an associate professor at [CSSC Lab](http://www.cssclab.cn/en) from Zhejiang University of Technology.
 Before that, I was a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from [City University of Hong Kong](https://www.cityu.edu.hk) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
 I obtained the BSc and MSc degrees in computer science at [CSSC Lab](https://www.cssclab.cn/) from [Zhejiang University of Technology (ZJUT)](https://www.zjut.edu.cn) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/).
