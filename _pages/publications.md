@@ -19,6 +19,11 @@ author_profile: true
 
 <ol>
    <li>
+    <Strong>Xiao Han</Strong>,
+     The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning.
+    <a target="_blank" rel="noopener" href="https://hkaift.com/the-relationship-between-talent-mobility-and-corporate-sustainability-smart-risk-assessment-and-early-warning/">[LINK]</a>
+  </li>  
+   <li>
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu,
      Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 25), Research Track</em>.
