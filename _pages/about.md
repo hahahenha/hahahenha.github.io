@@ -38,6 +38,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 </style>
 
 <div class="scrollable">
+
+ <ul>
+    <li><strong>[2025.06]</strong>: One article is published on BOC Connect app (中銀商聚). </li>
+  </ul>
+
+  
  <ul>
     <li><strong>[2025.05]</strong>: Two papers have been accepted by KDD 2025.</li>
   </ul>
