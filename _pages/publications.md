@@ -29,6 +29,13 @@ author_profile: true
     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 25), Research Track</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
   </li>
+  
+   <li>
+    Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>strong, Qidong Liu, Xuetao Wei, Yuxuan Liang,
+     Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision,
+    <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 25), Research Track</em>.
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2505.17437">[PDF]</a>
+  </li>  
   <li>
     Wenchao Weng, Hanyu Jiang, Mei Wu, <Strong>Xiao Han</Strong>, Haidong Gao, Guojiang Shen, and Xiangjie Kong,
     Let’s group: A Plug-and-Play SubGraph Learning method for Memory-Efficient Spatio-Temporal Graph Modeling,
