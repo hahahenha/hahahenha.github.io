@@ -39,7 +39,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div class="scrollable">
  <ul>
-    <li><strong>[2025.05]</strong>: One paper has been accepted by KDD 2025.</li>
+    <li><strong>[2025.05]</strong>: Two papers have been accepted by KDD 2025.</li>
+  </ul>
+
+  
+ <ul>
+    <li><strong>[2025.04]</strong>: One paper has been accepted by IJCAI 2025.</li>
   </ul>
   
  <ul>
