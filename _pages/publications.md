@@ -25,6 +25,12 @@ author_profile: true
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
   </li>
   <li>
+    Wenchao Weng, Hanyu Jiang, Mei Wu, <Strong>Xiao Han</Strong>, Haidong Gao, Guojiang Shen, and Xiangjie Kong,
+    Let’s group: A Plug-and-Play SubGraph Learning method for Memory-Efficient Spatio-Temporal Graph Modeling,
+    <em>The 34th International Joint Conference on Artificial Intelligence (IJCAI'25)</em>.
+    <a target="_blank" rel="noopener" href="">[PDF]</a>
+  </li>
+  <li>
     <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
     GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
     <em>Thirty-Nine AAAI Conference on Artificial Intelligence (AAAI'25), Oral</em>.
