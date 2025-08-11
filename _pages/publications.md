@@ -31,6 +31,12 @@ author_profile: true
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
   <li>
+   Zijian Zhang, <Strong>Xiao Han</Strong>, Xiangyu Zhao, Chenjuan Guo, Bin Yang,
+     Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends,
+    <em>The 19th International Symposium on Spatial and Temporal Data</em>.
+    <a target="_blank" rel="noopener" href="https://">[LINK]</a>
+  </li>  
+  <li>
     Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong,
      Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning,
     <em>Knowledge-Based Systems</em>.
