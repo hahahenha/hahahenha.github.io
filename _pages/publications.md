@@ -18,6 +18,18 @@ author_profile: true
 -->
 
 <ol>
+  <li>
+    Zhehao Dai, Guojiang Shen, Yuyue Hu, Jiaxin Du, <Strong>Xiao Han</Strong> and Xiangjie Kong,
+     FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes
+    <em>The 34th ACM International Conference on Information and Knowledge Management</em>.
+    <a target="_blank" rel="noopener" href="https://">[LINK]</a>
+  </li>  
+  <li>
+    Dayan Pan, Zhaoyang Fu, Jingyuan Wang, <Strong>Xiao Han</Strong>, Yue Zhu and Xiangyu Zhao,
+     Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models,
+    <em>The 34th ACM International Conference on Information and Knowledge Management</em>.
+    <a target="_blank" rel="noopener" href="https://">[LINK]</a>
+  </li>  
    <li>
     <Strong>Xiao Han</Strong>,
      The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning.
@@ -27,14 +39,14 @@ author_profile: true
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu,
      Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 25), Research Track</em>.
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[PDF]</a>
+    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[PDF]</a>
   </li>
   
    <li>
-    Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>strong, Qidong Liu, Xuetao Wei, Yuxuan Liang,
+    Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>, Qidong Liu, Xuetao Wei, Yuxuan Liang,
      Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision,
     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 25), Research Track</em>.
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2505.17437">[PDF]</a>
+    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737019">[PDF]</a>
   </li>  
   <li>
     Wenchao Weng, Hanyu Jiang, Mei Wu, <Strong>Xiao Han</Strong>, Haidong Gao, Guojiang Shen, and Xiangjie Kong,
