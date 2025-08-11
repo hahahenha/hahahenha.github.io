@@ -21,15 +21,21 @@ author_profile: true
   <li>
     Zhehao Dai, Guojiang Shen, Yuyue Hu, Jiaxin Du, <Strong>Xiao Han</Strong> and Xiangjie Kong,
      FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes
-    <em>The 34th ACM International Conference on Information and Knowledge Management</em>.
+    <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM 25)</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
   <li>
     Dayan Pan, Zhaoyang Fu, Jingyuan Wang, <Strong>Xiao Han</Strong>, Yue Zhu and Xiangyu Zhao,
      Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models,
-    <em>The 34th ACM International Conference on Information and Knowledge Management</em>.
+    <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM 25)</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
+  <li>
+    Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong,
+     Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning,
+    <em>Knowledge-Based Systems</em>.
+    <a target="_blank" rel="noopener" href="https://">[LINK]</a>
+  </li> 
    <li>
     <Strong>Xiao Han</Strong>,
      The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning.
