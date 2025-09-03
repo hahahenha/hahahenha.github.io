@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Xiao Han(韩笑)'s Homepage"
+title                    : "Xiao Han's Homepage"
 title_separator          : "-"
 name                     : "Xiao Han"
 description              : "Associate Professor at ZJUT"
@@ -22,7 +22,7 @@ repository               : "hahahenha/hahahenha.github.io"
 author:
   # Biographic information
   avatar           : "HX.jpg"
-  name             : "Xiao Han"
+  name             : "Xiao Han (韩笑)"
   pronouns         : # example: "she/her"  
   bio              : "Associate Professor at ZJUT"
   location         : "Hangzhou, China"
