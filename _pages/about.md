@@ -16,9 +16,6 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span> 
 
-
-
-
 Biography
 ======
 I'm going to be a researcher at [CSSC Lab](http://www.cssclab.cn/en) from Zhejiang University of Technology.
