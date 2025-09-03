@@ -1,6 +1,6 @@
 ---
 permalink: /
-<!-- title: "Xiao Han’s homepage" -->
+title: "Xiao Han’s homepage"
 author_profile: true
 redirect_from: 
   - /about/
