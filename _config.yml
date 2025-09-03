@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Xiao's Homepage"
 title_separator          : "-"
 name                     : "Xiao Han"
-description              : "PhD candidate at AML lab CityU HK"
+description              : "Associate Professor at ZJUT"
 url                      : https://hahahenha.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hahahenha/hahahenha.github.io"
@@ -24,9 +24,9 @@ author:
   avatar           : "HX.jpg"
   name             : "Xiao Han"
   pronouns         : # example: "she/her"  
-  bio              : "PhD candidate at AML lab CityU HK"
-  location         : "Hong Kong SAR"
-  employer         : "City University of Hong Kong"
+  bio              : "Associate Professor at ZJUT"
+  location         : "Hangzhou, China"
+  employer         : "Zhejiang University of Technology"
   uri              : # URL
   email            : "hahahenha@gmail.com" 
 
