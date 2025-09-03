@@ -252,7 +252,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </ul>
 </div>
 
-# Services
+# Service
 
 <div>
   <ul>
