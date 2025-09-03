@@ -257,7 +257,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div>
   <ul>
     <li>
-      I am a reviewer for IEEE TITS, IEEE TBD, IJCAI, KDD, etc.
-      </li>
+      Journal Reviewer: IEEE TITS, IEEE TBD, etc.
+    </li>
+    <li>
+      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-25, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
+    </li>
   </ul>
 </div>
