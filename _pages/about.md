@@ -37,42 +37,48 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div class="scrollable">
 
+  
+
  <ul>
-    <li><strong>[2025.08]</strong>: Two papers have been accepted by CIKM 2025. </li>
+    <li>[2025.08]>: Two papers have been accepted by CIKM 2025. </li>
+  </ul>
+
+  <ul>
+    <li>[2025.06]: Our tutorial about Spatio-Temporal Data Mining got accepted in SSTD 2025. </li>
   </ul>
 
  <ul>
-    <li><strong>[2025.06]</strong>: One article is published on BOC Connect app (中銀商聚). </li>
+    <li>[2025.06]: One article is published on BOC Connect app (中銀商聚). </li>
   </ul>
 
   
  <ul>
-    <li><strong>[2025.05]</strong>: Two papers have been accepted by KDD 2025.</li>
+    <li>[2025.05]: Two papers have been accepted by KDD 2025.</li>
   </ul>
 
   
  <ul>
-    <li><strong>[2025.04]</strong>: One paper has been accepted by IJCAI 2025.</li>
+    <li>[2025.04]: One paper has been accepted by IJCAI 2025.</li>
   </ul>
   
  <ul>
-    <li><strong>[2024.12]</strong>: One paper has been accepted by AAAI 2025.</li>
+    <li>[2024.12]: One paper has been accepted by AAAI 2025.</li>
   </ul>
   
  <ul>
-    <li><strong>[2024.12]</strong>: One paper has been accepted by WWW 2025 tutorial.</li>
+    <li>[2024.12]: One paper has been accepted by WWW 2025 tutorial.</li>
   </ul>
   
   <ul>
-    <li><strong>[2024.07]</strong>: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
+    <li>[2024.07]: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
   </ul>
   
   <ul>
-    <li><strong>[2024.06]</strong>: One paper has been accepted by KDD 2024, research track.</li>
+    <li>[2024.06]: One paper has been accepted by KDD 2024, research track.</li>
   </ul>
   
   <ul>
-    <li><strong>[2023.05]</strong>: One paper has been accepted by KDD 2023, research track.</li>
+    <li>[2023.05]: One paper has been accepted by KDD 2023, research track.</li>
   </ul>
 </div>
 
