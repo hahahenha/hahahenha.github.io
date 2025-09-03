@@ -1,4 +1,3 @@
-<!--
 ---
 permalink: /
 title: "Xiao Han’s homepage"
@@ -15,10 +14,10 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
- <span class='anchor' id='about-me'></span> 
+<span class='anchor' id='about-me'></span> 
 
 <br>
--->
+
 
 Biography
 ======
