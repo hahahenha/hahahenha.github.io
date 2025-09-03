@@ -117,6 +117,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </li>
 </ol>
 
+
+<!--
 # Projects
 
 <div>
@@ -191,6 +193,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
                         </li>
   </ul>
 </div>
+
+-->
 
 # Honors and Awards
 
