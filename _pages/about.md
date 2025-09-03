@@ -40,7 +40,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
   
 
  <ul>
-    <li>[2025.08]>: Two papers have been accepted by CIKM 2025. </li>
+    <li>[2025.08]: Two papers have been accepted by CIKM 2025. </li>
   </ul>
 
   <ul>
