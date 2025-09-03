@@ -260,7 +260,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
       Journal Reviewer: IEEE TITS, IEEE TBD, etc.
     </li>
     <li>
-      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-25, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
+      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-2025, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
     </li>
   </ul>
 </div>
