@@ -19,8 +19,14 @@ author_profile: true
 
 <ol>
   <li>
+     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
+     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 25)</em>.
+    <a target="_blank" rel="noopener" href="https://">[LINK]</a>
+  </li>  
+  <li>
     Zhehao Dai, Guojiang Shen, Yuyue Hu, Jiaxin Du, <Strong>Xiao Han</Strong> and Xiangjie Kong,
-     FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes
+     FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes,
     <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM 25)</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
