@@ -37,7 +37,9 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div class="scrollable">
 
-  
+   <ul>
+    <li>[2025.09]: One paper have been accepted by NeurIPS 2025. </li>
+  </ul>
 
  <ul>
     <li>[2025.08]: Two papers have been accepted by CIKM 2025. </li>
@@ -85,6 +87,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 # Selected Publications
 
 <ol>
+  <li>
+  <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
+    Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems</em>.
+    <a target="_blank" rel="noopener" href="">[TO BE UPLOADED]</a>
+  </li>
   <li>
   <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
