@@ -16,7 +16,7 @@ redirect_from:
 
 # Biography
 
-I'm currently a associate professor at Zhejiang University of Technology.
+I'm currently an associate professor at Zhejiang University of Technology.
 Before that, I was a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
 I obtained the BSc and MSc degrees in computer science at Zhejiang University of Technology (ZJUT) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/).
@@ -37,51 +37,19 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <div class="scrollable">
 
-   <ul>
-    <li>[2025.09]: One paper have been accepted by NeurIPS 2025. </li>
-  </ul>
-
- <ul>
+<ul>
+    <li>[2025.09]: One paper has been accepted by NeurIPS 2025. </li>
     <li>[2025.08]: Two regular papers & one workshop paper have been accepted by CIKM 2025. </li>
-  </ul>
-
-  <ul>
     <li>[2025.06]: Our tutorial about Spatio-Temporal Data Mining got accepted in SSTD 2025. </li>
-  </ul>
-
- <ul>
     <li>[2025.06]: One article is published on BOC Connect app (中銀商聚). </li>
-  </ul>
-
-  
- <ul>
     <li>[2025.05]: Two papers have been accepted by KDD 2025.</li>
-  </ul>
-
-  
- <ul>
-    <li>[2025.04]: One paper has been accepted by IJCAI 2025.</li>
-  </ul>
-  
- <ul>
+    <li>[2025.04]: One paper has been accepted by IJCAI 2025.</li> 
     <li>[2024.12]: One paper has been accepted by AAAI 2025.</li>
-  </ul>
-  
- <ul>
     <li>[2024.12]: One paper has been accepted by WWW 2025 tutorial.</li>
-  </ul>
-  
-  <ul>
     <li>[2024.07]: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
-  </ul>
-  
-  <ul>
     <li>[2024.06]: One paper has been accepted by KDD 2024, research track.</li>
-  </ul>
-  
-  <ul>
     <li>[2023.05]: One paper has been accepted by KDD 2023, research track.</li>
-  </ul>
+</ul>
 </div>
 
 # Selected Publications
