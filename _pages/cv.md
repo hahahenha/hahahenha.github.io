@@ -1,3 +1,17 @@
+---
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+---
+
+{% include base_path %}
+
+
+{% for post in site.cv %}
+  {% include archive-single.html %}
+{% endfor %}
+
 <!--
 ---
 layout: archive
@@ -15,19 +29,6 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
   window.location.href = "{{ page.redirect_to }}";
 </script>
 -->
-
-
-
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
----
-
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %}
 
 Education
 ======
