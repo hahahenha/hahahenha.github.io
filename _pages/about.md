@@ -215,15 +215,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Teaching Experience
 
-<div>
-  <ul>
-    <li><strong>[2023 Spring, 2023 Fall, 2024 Spring]</strong>: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
-    
-    <li><strong>[2024 Fall]</strong>: Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
-
-    <li><strong>[2020 Fall]</strong>: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
-  </ul>
-</div>
+<ul>
+  <li>[2023 Spring, 2023 Fall, 2024 Spring]: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
+  <li>[2024 Fall]: Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
+  <li>[2020 Fall]: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
+</ul>
 
 # Service
 
