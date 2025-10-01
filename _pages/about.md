@@ -196,15 +196,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 
-# Internships & Exchange
-<hr style="margin-top: 8px; margin-bottom: 20px;">
 
-<ul>
-   <li>[2023.11-2024.07]: Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
-   <li>[2021.09-2024.12]: Researcher, Lab for AI-Powered Fintech (Hong Kong). </li>
-   <li>[2020.09-2020.12]: Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.</li>
-   <li>[2020.09-2020.12]: Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou. </li>
-</ul>
 
 
 
