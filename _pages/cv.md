@@ -44,17 +44,32 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 # Work experience
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ul>
-  <li>[2025.07 - Present] Associate Professor, Zhejiang University of Technology </li>
-  <li>[2025.03 - 2025.06] Postdoctoral research fellow, City University of Hong Kong </li>
+  <li>[2025.07-Present] Associate Professor, Zhejiang University of Technology </li>
+  <li>[2025.03-2025.06] Postdoctoral research fellow, City University of Hong Kong </li>
 </ul>
 
-  
+
+
+
+# Internships & Exchange
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+
+<ul>
+   <li>[2023.11-2024.07] Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
+   <li>[2021.09-2024.12] Researcher, Lab for AI-Powered Fintech (Hong Kong). </li>
+   <li>[2020.09-2020.12] Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.</li>
+   <li>[2020.09-2020.12] Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou. </li>
+</ul>
+
+
+
+
 # Honors and Awards
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
-    <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
-    <li>[2019.12]: National Scholarship, Granted by: Ministry of Education, China </li>
+    <li>[2021.06] Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
+    <li>[2019.12] National Scholarship, Granted by: Ministry of Education, China </li>
 </ul>
 
 
@@ -66,9 +81,9 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
-  <li>[2023 Spring, 2023 Fall, 2024 Spring]: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
-  <li>[2024 Fall]: Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
-  <li>[2020 Fall]: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
+  <li>[2023 Spring, 2023 Fall, 2024 Spring] Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
+  <li>[2024 Fall] Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
+  <li>[2020 Fall] Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
 </ul>
 
 
