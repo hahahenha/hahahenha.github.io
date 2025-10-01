@@ -74,31 +74,31 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <li>
   <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
     GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
-    <em>Thirty-Nine AAAI Conference on Artificial Intelligence (AAAI'25)</em>.
+    <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
   </li>
   <li>
     <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, Yulong Zhao,
     Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles,
-    <em>IEEE Transactions on Vehicular Technology</em>.
+    <em>IEEE Transactions on Vehicular Technology, 2024</em>.
     <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[Paper]</a>
   </li>
   <li>
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, and Hengshu Zhu,
     Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning,
-    <em>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’24), Research Track</em>.
+    <em>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2024</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2407.00082">[Paper]</a>
   </li>
   <li>
     <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang,
     Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning,
-    <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD’23), Research Track</em>.
+    <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2023</em>.
     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[Paper]</a>
   </li>
   <li>
     <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong,
     Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network,
-    <em>Transportation Research Part C: Emerging Technologies</em>.
+    <em>Transportation Research Part C: Emerging Technologies, 2020</em>.
     <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[Paper]</a>
   </li>
 </ul>
