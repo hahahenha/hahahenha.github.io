@@ -188,20 +188,19 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 -->
 
+
+
+
 # Honors and Awards
 
-<div>
-  <ul>
-    <li>
-      <strong>[2021.06]</strong>: 
-      Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China
-      </li>
-    <li>
-      <strong>[2019.12]</strong>: 
-      National Scholarship, Granted by: Ministry of Education, China
-      </li>
-  </ul>
-</div>
+
+<ul>
+    <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
+    <li>[2019.12]: National Scholarship, Granted by: Ministry of Education, China </li>
+</ul>
+
+
+
 
 # Internships & Exchange
 
