@@ -34,9 +34,12 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 
 # Education
 <hr style="margin-top: 8px; margin-bottom: 20px;">
-* Ph.D in Data Science, City University of Hong Kong, 2021.09-2025.02
-* M.S. in Computer Science and Technology, Zhejiang University of Technology, 2018.09-2021.06
-* B.S. in Computer Science and Technology, Automation, Zhejiang University of Technology, 2014.09-2018.06
+<ul>
+  <li>[2021.09-2025.02] Ph.D in Data Science, City University of Hong Kong</li>
+  <li>[2018.09-2021.06] M.S. in Computer Science and Technology, Zhejiang University of Technology</li>
+  <li>[2014.09-2018.06] B.S. in Computer Science and Technology, Automation, Zhejiang University of Technology</li>
+</ul>
+
 
 Work experience
 ======
