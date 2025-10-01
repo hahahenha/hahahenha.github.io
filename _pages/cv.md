@@ -34,9 +34,9 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Data Science, City University of Hong Kong, 2021.09-2025.02
+* M.S. in Computer Science and Technology, Zhejiang University of Technology, 2018.09-2021.06
+* B.S. in Computer Science and Technology, Automation, Zhejiang University of Technology, 2014.09-2018.06
 
 Work experience
 ======
