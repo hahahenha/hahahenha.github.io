@@ -52,14 +52,17 @@ If you are interested in collaborating with me or want to have a chat, always fe
 </ul>
 </div>
 
+
+
+
 # Selected Publications
 
 <ul>
   <li>
-    Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning<br>
-    <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao<br>
-    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), Research Track</em>.<br>
-    <a target="_blank" rel="noopener" href="">[Paper]</a>
+    <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao
+    Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), Research Track</em>.
+    <a target="_blank" rel="noopener" href="">[Paper]</a><a target="_blank" rel="noopener" href="">[Code]</a>
   </li>
   
   <li>
