@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 ---
 
-<a target="_blank" rel="noopener" href="https://www.hahahenha.net/static/CV/CV_HX.pdf">[Download My CV]</a>
+<a target="_blank" rel="noopener" href="https://www.hahahenha.net/static/CV/CV_HX.pdf">[Download My CV &#128196;]</a>
 
 {% include base_path %}
 
