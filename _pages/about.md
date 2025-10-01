@@ -15,7 +15,7 @@ redirect_from:
 <!-- <span class='anchor' id='about-me'></span> -->
 
 # Biography
-<hr style="border: none; border-top: 2px solid #000; margin: 20px 0;">
+<hr style="border: none; border-top: 2px solid #000; margin: 10px 0;">
 I'm currently an associate professor at Zhejiang University of Technology.
 Before that, I was a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
