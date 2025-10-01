@@ -56,11 +56,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <ul>
   <li>
-  <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
-    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems</em>.
+    <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25), Research Track</em>.
     <a target="_blank" rel="noopener" href="">[TO BE UPLOADED]</a>
   </li>
+  
   <li>
   <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
