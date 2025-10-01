@@ -119,7 +119,7 @@ author_profile: true
   <li>
       Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era <br>
       Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, <Strong>Xiao Han</Strong>, Pengyue Jia, Bin Yang and Christian S. Jensen <br>
-      <em>The International World Wide Web Conference (<Strong>WWW</Strong>), 2025</em>, Tutorial
+      <em>The International World Wide Web Conference (<Strong>WWW</Strong>), 2025</em>, Tutorial <br>
       <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Tutorial]</a>
   </li>
   
