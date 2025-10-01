@@ -1,3 +1,4 @@
+<!--
 ---
 layout: archive
 title: "CV"
@@ -13,8 +14,10 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 <script type="text/javascript">
   window.location.href = "{{ page.redirect_to }}";
 </script>
+-->
 
-<!--
+
+
 ---
 layout: archive
 title: "CV"
@@ -79,4 +82,3 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
--->
