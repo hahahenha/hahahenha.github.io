@@ -41,22 +41,13 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 </ul>
 
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+# Work experience
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+<ul>
+  <li>[2025.07 - Present] Associate Professor, Zhejiang University of Technology </li>
+  <li>[2025.03 - 2025.06] Postdoctoral research fellow, City University of Hong Kong </li>
+</ul>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
 Skills
 ======
