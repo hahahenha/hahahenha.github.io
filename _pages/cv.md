@@ -49,33 +49,46 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 </ul>
 
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Honors and Awards
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<ul>
+    <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
+    <li>[2019.12]: National Scholarship, Granted by: Ministry of Education, China </li>
+</ul>
+
+
+
+
+
+
+# Teaching Experience
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+
+<ul>
+  <li>[2023 Spring, 2023 Fall, 2024 Spring]: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
+  <li>[2024 Fall]: Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
+  <li>[2020 Fall]: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
+</ul>
+
+
+# Invited Talks
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+
+<ul>
+  <li>[2025.08] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
+</ul>
+
+
+# Service
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+<div>
+  <ul>
+    <li>
+      Journal Reviewer: IEEE TITS, IEEE TBD, etc.
+    </li>
+    <li>
+      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-2025, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
+    </li>
+  </ul>
+</div>
