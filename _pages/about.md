@@ -58,7 +58,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Selected Publications 
 <hr style="margin-top: 8px; margin-bottom: 20px;">
-<a target="_blank" rel="noopener" href="https://hahahenha.github.io/publications/">[FULL]</a>
 
 <ul>
   <li>
