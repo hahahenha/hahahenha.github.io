@@ -19,35 +19,40 @@ author_profile: true
 
 <ol>
   <li>
-     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
-     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
-    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS 25)</em>.
+    Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning <br>
+    <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao <br>
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em> <br>
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
+  
   <li>
     Zhehao Dai, Guojiang Shen, Yuyue Hu, Jiaxin Du, <Strong>Xiao Han</Strong> and Xiangjie Kong,
      FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes,
     <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM 25)</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
-  </li>  
+  </li> 
+  
   <li>
     Dayan Pan, Zhaoyang Fu, Jingyuan Wang, <Strong>Xiao Han</Strong>, Yue Zhu and Xiangyu Zhao,
      Contextual Attention Modulation: Towards Efficient Multi-Task Adaptation in Large Language Models,
     <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM 25)</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
-  </li>  
+  </li> 
+  
   <li>
    Zijian Zhang, <Strong>Xiao Han</Strong>, Xiangyu Zhao, Chenjuan Guo, Bin Yang,
      Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends,
     <em>The 19th International Symposium on Spatial and Temporal Data</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li>  
+  
   <li>
     Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong,
      Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning,
     <em>Knowledge-Based Systems</em>.
     <a target="_blank" rel="noopener" href="https://">[LINK]</a>
   </li> 
+  
    <li>
     <Strong>Xiao Han</Strong>,
      The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning.
