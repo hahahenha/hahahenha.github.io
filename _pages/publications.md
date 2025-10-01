@@ -22,7 +22,7 @@ author_profile: true
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning <br>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao <br>
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em> <br>
-    <a target="_blank" rel="noopener" href="https://">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2509.18942?">[Paper]</a>
     <a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
   </li>  
   
@@ -78,7 +78,7 @@ author_profile: true
       Let’s group: A Plug-and-Play SubGraph Learning method for Memory-Efficient Spatio-Temporal Graph Modeling <br>
       Wenchao Weng, Hanyu Jiang, Mei Wu, <Strong>Xiao Han</Strong>, Haidong Gao, Guojiang Shen, and Xiangjie Kong <br>
       <em>The 34th International Joint Conference on Artificial Intelligence (<Strong>IJCAI</Strong>), 2025</em> <br>
-      <a target="_blank" rel="noopener" href="">[PDF]</a>
+      <a target="_blank" rel="noopener" href="">[Paper]</a>
   </li>
   
   <li>
@@ -106,7 +106,7 @@ author_profile: true
       Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning <br>
       <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang <br>
       <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2023</em> <br>
-      <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[PDF]</a>
+      <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[Paper]</a>
   </li>
   
   <li>
@@ -128,7 +128,7 @@ author_profile: true
       G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models <br>
       Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, YantongDu, <Strong>Xiao Han</Strong>, et. al. <br>
       <em>2024 Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2024</em> <br>
-      <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[PDF]</a>
+      <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Paper]</a>
   </li>
   
   <li>
@@ -163,6 +163,6 @@ author_profile: true
       Traffic speed prediction: An attention-based method <br>
       Duanyang Liu, Longfeng Tang, Guojiang Shen, and <Strong>Xiao Han</Strong> <br>
       <em>Sensors</em> <br>
-      <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[Papaer]</a>
+      <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[Paper]</a>
   </li>
 </ol>
