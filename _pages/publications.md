@@ -84,7 +84,7 @@ author_profile: true
   <li>
       <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu <br>
       GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching <br>
-      <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025, （<Strong style="color: red;">Oral</Strong>）</em> <br>
+      <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em> （<Strong style="color: red;">Oral</Strong>） <br>
       <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
   </li>
   
@@ -113,19 +113,20 @@ author_profile: true
       Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network <br>
       <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong <br>
       <em>Transportation Research Part C: Emerging Technologies</em> <br>
-      <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[PDF]</a>
+      <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[Paper]</a>
   </li>
   
   <li>
       Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era <br>
       Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, <Strong>Xiao Han</Strong>, Pengyue Jia, Bin Yang and Christian S. Jensen <br>
-      <em>The International World Wide Web Conference (WWW'25)</em>, Tutorial.
+      <em>The International World Wide Web Conference (<Strong>WWW</Strong>), 2025</em>, Tutorial
+      <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Tutorial]</a>
   </li>
   
   <li>
       G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models <br>
       Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, YantongDu, <Strong>Xiao Han</Strong>, et. al. <br>
-      <em>2024 Conference on Neural Information Processing Systems (NeurIPS'2024)</em> <br>
+      <em>2024 Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2024</em> <br>
       <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[PDF]</a>
   </li>
   
