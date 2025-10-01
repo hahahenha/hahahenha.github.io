@@ -23,7 +23,7 @@ author_profile: true
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao <br>
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em> <br>
     <a target="_blank" rel="noopener" href="https://">[Paper]</a>
-    <a target="_blank" rel="noopener" href="https://">[Code]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
   </li>  
   
   <li>
