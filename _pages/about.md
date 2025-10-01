@@ -61,12 +61,12 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <li>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
-    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (NeurIPS'25)</em>.
+    <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS<\Strong>), 2025</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2509.18942?">[Paper]</a><a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
   </li>
   
   <li>
-  <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
+    <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
     <em>Thirty-first ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD'25), Research Track</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[Paper]</a>
