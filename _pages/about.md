@@ -56,8 +56,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 
-# Selected Publications <a target="_blank" rel="noopener" href="https://hahahenha.github.io/publications/">[FULL]</a>
+# Selected Publications 
 <hr style="margin-top: 8px; margin-bottom: 20px;">
+<a target="_blank" rel="noopener" href="https://hahahenha.github.io/publications/">[FULL]</a>
+
 <ul>
   <li>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
