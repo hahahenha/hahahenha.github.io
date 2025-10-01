@@ -73,10 +73,10 @@ If you are interested in collaborating with me or want to have a chat, always fe
   </li>
   
   <li>
-  <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
+   <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu,
     GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
     <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em>.
-    (<Strong><p style="color: red;">Oral</p></Strong>)
+    (<Strong style="color: red;">Oral</Strong>)
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
   </li>
   
