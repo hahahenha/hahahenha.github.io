@@ -54,7 +54,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 # Selected Publications
 
-<ol>
+<ul>
   <li>
   <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
@@ -97,7 +97,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <em>Transportation Research Part C: Emerging Technologies</em>.
     <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[PDF]</a>
   </li>
-</ol>
+</ul>
 
 
 <!--
