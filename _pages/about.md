@@ -56,7 +56,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 
-# Selected Publications
+# Selected Publications <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[FULL]</a>
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ul>
   <li>
