@@ -179,9 +179,9 @@ markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 # Collections
 collections:
-  # teaching:
-  #   output: true
-  #   permalink: /:collection/:path/
+  teaching:
+    output: true
+    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
@@ -210,16 +210,16 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # # _teaching
-  # - scope:
-  #     path: ""
-  #     type: teaching
-  #   values:
-  #     layout: single
-  #     layout: default
-  #     author_profile: true
-  #     share: true
-  #     comments: true
+  # _teaching
+  - scope:
+      path: ""
+      type: teaching
+    values:
+      layout: single
+      layout: default
+      author_profile: true
+      share: true
+      comments: true
   # _publications
   - scope:
       path: ""
