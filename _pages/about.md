@@ -24,8 +24,9 @@ I obtained the BSc and MSc degrees in computer science at Zhejiang University of
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through <a href="mailto:hahahenha@gmail.com">*hahahenha@gmail.com*</a>.
 
-# News
 
+# News
+<hr>
 <!--
 <style>
   .scrollable {
@@ -56,7 +57,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Selected Publications
-
+<hr>
 <ul>
   <li>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
@@ -192,7 +193,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Honors and Awards
-
+<hr>
 
 <ul>
     <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
@@ -203,7 +204,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Internships & Exchange
-
+<hr>
 
 <ul>
    <li>[2023.11-2024.07]: Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
@@ -211,6 +212,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
    <li>[2020.09-2020.12]: Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.</li>
    <li>[2020.09-2020.12]: Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou. </li>
 </ul>
+
+
 
 
 # Teaching Experience
@@ -221,8 +224,11 @@ If you are interested in collaborating with me or want to have a chat, always fe
   <li>[2020 Fall]: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
 </ul>
 
-# Service
 
+
+
+# Service
+<hr>
 <div>
   <ul>
     <li>
