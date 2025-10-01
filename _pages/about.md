@@ -15,7 +15,7 @@ redirect_from:
 <!-- <span class='anchor' id='about-me'></span> -->
 
 # Biography
-<hr style="margin-top: 10px; margin-bottom: 20px;">
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 I'm currently an associate professor at Zhejiang University of Technology.
 Before that, I was a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
@@ -26,7 +26,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # News
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 <!--
 <style>
   .scrollable {
@@ -57,7 +57,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Selected Publications
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 <ul>
   <li>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
@@ -193,7 +193,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Honors and Awards
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
     <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
@@ -204,7 +204,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Internships & Exchange
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
    <li>[2023.11-2024.07]: Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
@@ -217,6 +217,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Teaching Experience
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
   <li>[2023 Spring, 2023 Fall, 2024 Spring]: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
@@ -228,7 +229,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 # Service
-<hr>
+<hr style="margin-top: 8px; margin-bottom: 20px;">
 <div>
   <ul>
     <li>
