@@ -39,17 +39,17 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class="scrollable">
 
 <ul>
-    <li>[2025.09]: One paper has been accepted by NeurIPS 2025. </li>
-    <li>[2025.08]: Two regular papers & one workshop paper have been accepted by CIKM 2025. </li>
-    <li>[2025.06]: Our tutorial about Spatio-Temporal Data Mining got accepted in SSTD 2025. </li>
-    <li>[2025.06]: One article is published on BOC Connect app (中銀商聚). </li>
-    <li>[2025.05]: Two papers have been accepted by KDD 2025.</li>
-    <li>[2025.04]: One paper has been accepted by IJCAI 2025.</li> 
-    <li>[2024.12]: One paper has been accepted by AAAI 2025.</li>
-    <li>[2024.12]: One paper has been accepted by WWW 2025 tutorial.</li>
-    <li>[2024.07]: One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
-    <li>[2024.06]: One paper has been accepted by KDD 2024, research track.</li>
-    <li>[2023.05]: One paper has been accepted by KDD 2023, research track.</li>
+    <li>[2025.09] One paper has been accepted by NeurIPS 2025. </li>
+    <li>[2025.08] Two regular papers & one workshop paper have been accepted by CIKM 2025. </li>
+    <li>[2025.06] Our tutorial about Spatio-Temporal Data Mining got accepted in SSTD 2025. </li>
+    <li>[2025.06] One article is published on BOC Connect app (中銀商聚). </li>
+    <li>[2025.05] Two papers have been accepted by KDD 2025.</li>
+    <li>[2025.04] One paper has been accepted by IJCAI 2025.</li> 
+    <li>[2024.12] One paper has been accepted by AAAI 2025.</li>
+    <li>[2024.12] One paper has been accepted by WWW 2025 tutorial.</li>
+    <li>[2024.07] One paper has been accepted by IEEE Transactions on Vehicular Technology.</li>
+    <li>[2024.06] One paper has been accepted by KDD 2024, research track.</li>
+    <li>[2023.05] One paper has been accepted by KDD 2023, research track.</li>
 </ul>
 </div>
 
@@ -194,15 +194,6 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 
-# Honors and Awards
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-
-<ul>
-    <li>[2021.06]: Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
-    <li>[2019.12]: National Scholarship, Granted by: Ministry of Education, China </li>
-</ul>
-
-
 
 
 # Internships & Exchange
@@ -218,27 +209,5 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 
 
-# Teaching Experience
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-
-<ul>
-  <li>[2023 Spring, 2023 Fall, 2024 Spring]: Teaching Assistant of <strong>Deep Learning</strong> at the City University of Hong Kong.</li>
-  <li>[2024 Fall]: Teaching Assistant of <strong>Advanced Statistics</strong> at the City University of Hong Kong.</li>
-  <li>[2020 Fall]: Teaching Assistant of <strong>Intelligent Transportation Systems</strong> at the Zhejiang University of Technology.</li>
-</ul>
 
 
-
-
-# Service
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-<div>
-  <ul>
-    <li>
-      Journal Reviewer: IEEE TITS, IEEE TBD, etc.
-    </li>
-    <li>
-      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-2025, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
-    </li>
-  </ul>
-</div>
