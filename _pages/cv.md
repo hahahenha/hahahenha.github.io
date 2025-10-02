@@ -32,9 +32,10 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 </script>
 -->
 
-# Education
+# Education & Work experience
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ul>
+  <li>[2025.07-Present] Associate Professor, Zhejiang University of Technology </li>
   <li>[2021.09-2025.06] Ph.D & Postdoctoral Research Fellow in Data Science, City University of Hong Kong</li>
   <li>[2018.09-2021.06] M.S. in Computer Science and Technology, Zhejiang University of Technology</li>
   <li>[2014.09-2018.06] B.S. in Computer Science and Technology & Automation, Zhejiang University of Technology</li>
