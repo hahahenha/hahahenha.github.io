@@ -17,7 +17,7 @@ author_profile: true
 {% endfor %}
 -->
 
-## Conference papers
+## Conference Papers
 
 
 
@@ -123,7 +123,7 @@ author_profile: true
 </ol>
 
 
-## Journal papers
+## Journal Papers
 <ol>
     <li>
         Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning  <br>
@@ -193,7 +193,7 @@ author_profile: true
      </li>
 </ol>
 
-## Workshop papers
+## Workshop Papers
 <ol>
     <li>
       TITLE: MoE Enhanced Federated Learning for Spatiotemporal Prediction <br>
