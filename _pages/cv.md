@@ -105,7 +105,7 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
       Journal Reviewer: IEEE TITS, IEEE TBD, etc.
     </li>
     <li>
-      Conference PC Member/Reviewer: KDD 2023-2025, NeurIPS 2024-2025, WWW 2024-2025, IJCAI 2024-2025, AAAI 2024-2025, etc.
+      Conference PC Member/Reviewer: KDD 2023-2026, NeurIPS 2024-2025, WWW 2024-2026, IJCAI 2024-2025, AAAI 2024-2025, etc.
     </li>
   </ul>
 </div>
