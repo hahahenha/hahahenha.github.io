@@ -38,7 +38,13 @@ author_profile: true
      <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
      <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
   </li>
-
+  
+  <li>
+     Multi-modal Recommendation with Joint Content and Interaction Augmentation <br>
+     Jiajie Deng, Haokun Wen, <Strong>Xiao Han</Strong>, Xuemeng Song, Xiangyu Zhao<br>
+     <em>ACM Multimedia Asia 2025</em> <br>
+     <!-- <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
+  </li> -->
 
   <li>
        Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
