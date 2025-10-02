@@ -196,9 +196,9 @@ author_profile: true
 <ol>
     <li>
       TITLE: MoE Enhanced Federated Learning for Spatiotemporal Prediction <br>
-      Zhehao Dai, <Strong>Xiao Han * </Strong>, Zhaolin Deng, Zijian Zhang, Xiangyu Zhao, Guojiang Shen and Xiangjie Kong
+      Zhehao Dai, <Strong>Xiao Han*</Strong>, Zhaolin Deng, Zijian Zhang, Xiangyu Zhao, Guojiang Shen and Xiangjie Kong<br>
+      STIntelligence workshop in CIKM 2025
     </li>
-  
 </ol>
 
 
