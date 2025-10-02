@@ -112,7 +112,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong,
     Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network,
     <em>Transportation Research Part C: Emerging Technologies, 2020</em>.
-    <a target="_blank" rel="noopener href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307774">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307774">[Paper]</a>
   </li>
 </ul>
 
