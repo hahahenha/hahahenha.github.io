@@ -29,7 +29,23 @@ author_profile: true
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em> <br>
     <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2509.18942?">[Paper]</a>
     <a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
-  </li>  
+  </li> 
+
+
+  <li>
+     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
+     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu <br>
+     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
+     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
+  </li>
+
+
+  <li>
+       Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
+       <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu <br>
+       <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
+       <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
+  </li>
   
   <li>
      FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes <br>
@@ -46,12 +62,7 @@ author_profile: true
   </li> 
    
 
-  <li>
-     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
-     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu <br>
-     <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
-     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
-</li>
+  
   
    <li>
       Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>, Qidong Liu, Xuetao Wei, Yuxuan Liang <br> 
@@ -67,12 +78,7 @@ author_profile: true
       <a target="_blank" rel="noopener" href="">[Paper]</a>
   </li>
   
-  <li>
-      <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu <br>
-      GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching <br>
-      <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em> （<Strong style="color: red;">Oral</Strong>） <br>
-      <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
-  </li>
+ 
   
  
   
