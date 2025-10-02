@@ -18,10 +18,6 @@ author_profile: true
 -->
 
 ## Conference Papers
-
-
-
-
 <ol>
   <li>
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning <br>
@@ -66,9 +62,6 @@ author_profile: true
      <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025 </em> <br>
      <a target="_blank" rel="noopener" href="https://">[Paper]</a>
   </li> 
-   
-
-  
   
    <li>
       Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>, Qidong Liu, Xuetao Wei, Yuxuan Liang <br> 
@@ -83,10 +76,6 @@ author_profile: true
       <em>The 34th International Joint Conference on Artificial Intelligence (<Strong>IJCAI</Strong>), 2025</em> <br>
       <a target="_blank" rel="noopener" href="">[Paper]</a>
   </li>
-  
- 
-  
- 
   
   <li>
       Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning <br>
@@ -121,6 +110,9 @@ author_profile: true
   
   
 </ol>
+
+
+
 
 
 ## Journal Papers
@@ -176,6 +168,10 @@ author_profile: true
     
 </ol>
 
+
+
+
+
 ## Tutorials
 <ol>
     <li>
@@ -193,6 +189,9 @@ author_profile: true
      </li>
 </ol>
 
+
+
+
 ## Workshop Papers
 <ol>
     <li>
@@ -201,6 +200,8 @@ author_profile: true
     </li>
   
 </ol>
+
+
 
 
 
