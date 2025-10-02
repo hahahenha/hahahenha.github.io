@@ -81,7 +81,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
     GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching,
     <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em>.
     (<Strong style="color: red;">Oral</Strong>)
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
+    <a target="_blank" rel="noopener" href="../Papers/AAAI2025_GARLIC.pdf">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/GARLIC">[Code]</a>
   </li>
   
   <li>
