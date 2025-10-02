@@ -25,19 +25,22 @@ author_profile: true
      Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
      <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu <br>
      <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
-     <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
-  </li>  
+     <a target="_blank" rel="noopener" href="../Papers/KDD2025_smileGeo.pdf">[Paper]</a>
+     <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/smileGeo">[Code]</a>
+  </li> 
+  <li>
+      GARLIC: GPT-Augmented Reinforcement Learning with Intelligent Control for Vehicle Dispatching <br>
+     <Strong>Xiao Han</Strong>, Zijian Zhang, Xiangyu Zhao, Guojiang Shen, Xiangjie Kong, Xuetao Wei, Liqiang Nie, Jieping Ye, and Yuanshao Zhu <br>
+      <em>Thirty-Nine AAAI Conference on Artificial Intelligence (<Strong>AAAI</Strong>), 2025</em> 
+      (<Strong style="color: red;">Oral</Strong>)<br>
+      <a target="_blank" rel="noopener" href="../Papers/AAAI2025_GARLIC.pdf">[Paper]</a>
+      <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/GARLIC">[Code]</a>
+  </li>
   <li>
      Multi-modal Recommendation with Joint Content and Interaction Augmentation <br>
      Jiajie Deng, Haokun Wen, <Strong>Xiao Han</Strong>, Xuemeng Song, Xiangyu Zhao<br>
      <em>ACM Multimedia Asia 2025</em>
   </li> 
-  <li>
-       Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
-       <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, Hengshu Zhu <br>
-       <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
-       <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
-  </li>
   <li>
      FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes <br>
      Zhehao Dai, Guojiang Shen, Yuyue Hu, Jiaxin Du, <Strong>Xiao Han</Strong> and Xiangjie Kong <br>
