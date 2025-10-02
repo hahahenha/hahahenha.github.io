@@ -96,7 +96,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiao Hu, Chuan Qin, Xiangyu Zhao, and Hengshu Zhu,
     Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning,
     <em>The 30th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2024</em>.
-    <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2407.00082">[Paper]</a>
+    <a target="_blank" rel="noopener" href="../Papers/KDD2024_BISTRO.pdf">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/BISTRO">[Code]</a>
   </li>
   
   <li>
