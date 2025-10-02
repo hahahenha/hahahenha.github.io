@@ -64,7 +64,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em>.
-    <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2509.18942?">[Paper]</a><a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
+    <a target="_blank" rel="noopener" href="https://arxiv.org/pdf/2509.18942?">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/zzm-black/DEAL-Continuous-Low-Rank-Fine-Tuning">[Code]</a>
   </li>
   
   <li>
@@ -72,6 +73,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
     <em>Thirty-first ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track,  2025</em>.
     <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/smileGeo">[Code]</a>
   </li>
   
   <li>
