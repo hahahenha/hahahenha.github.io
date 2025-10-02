@@ -72,7 +72,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <Strong>Xiao Han</Strong>, Chen Zhu, Xiangyu Zhao, and Hengshu Zhu,
     Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework,
     <em>Thirty-first ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track,  2025</em>.
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.11312">[Paper]</a>
+    <a target="_blank" rel="noopener" href="../Papers/KDD2025_smileGeo.pdf">[Paper]</a>
     <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/smileGeo">[Code]</a>
   </li>
   
