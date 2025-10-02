@@ -195,6 +195,10 @@ author_profile: true
 
 ## Workshop papers
 <ol>
+    <li>
+      TITLE: MoE Enhanced Federated Learning for Spatiotemporal Prediction <br>
+      Zhehao Dai, <Strong>Xiao Han * </Strong>, Zhaolin Deng, Zijian Zhang, Xiangyu Zhao, Guojiang Shen and Xiangjie Kong
+    </li>
   
 </ol>
 
