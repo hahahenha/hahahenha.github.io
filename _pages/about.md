@@ -104,7 +104,8 @@ If you are interested in collaborating with me or want to have a chat, always fe
     <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang,
     Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning,
     <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2023</em>.
-    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[Paper]</a>
+    <a target="_blank" rel="noopener" href="../Papers/KDD2023_PRLight.pdf">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/hahahenha/TPSCF">[Code]</a>
   </li>
   
   <li>
