@@ -91,7 +91,7 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
-  <li>[2025.08] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
+  <li>[2025.07] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
 </ul>
 
 
