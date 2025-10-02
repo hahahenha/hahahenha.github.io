@@ -39,7 +39,7 @@ author_profile: true
   <li>
      Multi-modal Recommendation with Joint Content and Interaction Augmentation <br>
      Jiajie Deng, Haokun Wen, <Strong>Xiao Han</Strong>, Xuemeng Song, Xiangyu Zhao<br>
-     <em>ACM Multimedia Asia 2025</em> <br>
+     <em>ACM Multimedia Asia 2025</em>
      <!-- <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3711896.3737141">[Paper]</a>
   </li> -->
 
@@ -108,8 +108,6 @@ author_profile: true
       <em>The 33rd International Joint Conference on Artificial Intelligence (<Strong>IJCAI</Strong>), 2024</em> <br>
       <a target="_blank" rel="noopener" href="https://www.ijcai.org/proceedings/2024/244">[Paper]</a>
   </li>
-  
-  
 </ol>
 
 
@@ -198,7 +196,7 @@ author_profile: true
     <li>
       TITLE: MoE Enhanced Federated Learning for Spatiotemporal Prediction <br>
       Zhehao Dai, <Strong>Xiao Han*</Strong>, Zhaolin Deng, Zijian Zhang, Xiangyu Zhao, Guojiang Shen and Xiangjie Kong<br>
-      STIntelligence workshop in CIKM 2025
+      <em>STIntelligence workshop in CIKM 2025</em>
     </li>
 </ol>
 
