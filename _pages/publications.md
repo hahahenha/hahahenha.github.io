@@ -44,21 +44,7 @@ author_profile: true
      <em>The 34th ACM International Conference on Information and Knowledge Management (CIKM), 2025 </em> <br>
      <a target="_blank" rel="noopener" href="https://">[Paper]</a>
   </li> 
-  
    
-  
-  <li>
-      Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning  <br>
-      Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong  <br>
-      <em>Knowledge-Based Systems, 2025</em>  <br>
-      <a target="_blank" rel="noopener" href="https://">[Paper]</a>
-  </li> 
-  
-   <li>
-      The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning  <br>
-      <Strong>Xiao Han</Strong>  <br>
-      <a target="_blank" rel="noopener" href="https://hkaift.com/the-relationship-between-talent-mobility-and-corporate-sustainability-smart-risk-assessment-and-early-warning/">[LINK]</a>
-  </li>  
 
   <li>
      Swarm Intelligence in Geo-Localization: A Multi-Agent Large Vision-Language Model Collaborative Framework <br>
@@ -88,12 +74,7 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2408.10286">[Paper]</a>
   </li>
   
-  <li>
-      Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles <br>
-      <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, and Yulong Zhao <br>
-      <em>IEEE Transactions on Vehicular Technology, 2024</em> <br>
-      <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[Paper]</a>
-  </li>
+ 
   
   <li>
       Adapting Job Recommendations to User Preference Drift with Behavioral-Semantic Fusion Learning <br>
@@ -109,20 +90,6 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3580305.3599528">[Paper]</a>
   </li>
   
-  <li>
-      Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network <br>
-      <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong <br>
-      <em>Transportation Research Part C: Emerging Technologies</em> <br>
-      <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[Paper]</a>
-  </li>
-  
-  <li>
-      Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era <br>
-      Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, <Strong>Xiao Han</Strong>, Pengyue Jia, Bin Yang and Christian S. Jensen <br>
-      <em>The International World Wide Web Conference (<Strong>WWW</Strong>), 2025</em>, Tutorial <br>
-      <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Paper]</a>
-      <a target="_blank" rel="noopener" href="https://human-mobility.github.io/">[Project page]</a>
-  </li>
   
   <li>
       G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models <br>
@@ -131,12 +98,7 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Paper]</a>
   </li>
   
-  <li>
-      Traffic data imputation via knowledge graph-enhanced generative adversarial network <br>
-      Yinghui Liu, Guojiang Shen, Nali Liu, <Strong>Xiao Han</Strong>, Zhenhui Xu, Junjie Zhou, and Xiangjie Kong <br>
-      <em>PeerJ Computer Science</em> <br>
-      <a target="_blank" rel="noopener" href="https://peerj.com/articles/cs-2408/">[Paper]</a>
-  </li>
+  
   
   <li>
       KDDC: Knowledge-Driven Disentangled Causal Metric Learning for Pre-Travel Out-of-Town Recommendation <br>
@@ -145,7 +107,41 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://www.ijcai.org/proceedings/2024/244">[Paper]</a>
   </li>
   
-  <li>
+  
+</ol>
+
+
+## Journal papers
+<ol>
+    <li>
+        Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning  <br>
+        Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong  <br>
+        <em>Knowledge-Based Systems, 2025</em>  <br>
+        <a target="_blank" rel="noopener" href="https://">[Paper]</a>
+    </li> 
+
+   <li>
+      Deep Trajectory Recovery Approach of Offline Vehicles in the Internet of Vehicles <br>
+      <Strong>Xiao Han</Strong>, Dingxuan Zhou, Guojiang Shen, Xiangjie Kong, and Yulong Zhao <br>
+      <em>IEEE Transactions on Vehicular Technology, 2024</em> <br>
+      <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[Paper]</a>
+   </li>
+
+   <li>
+      Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network <br>
+      <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong <br>
+      <em>Transportation Research Part C: Emerging Technologies</em> <br>
+      <a target="_blank" rel="noopener" href="https://www.researchgate.net/profile/Xiangjie-Kong-2/publication/347696366_Congestion_recognition_for_hybrid_urban_road_systems_via_digraph_convolutional_network/links/617cef433c987366c30419d2/Congestion-recognition-for-hybrid-urban-road-systems-via-digraph-convolutional-network.pdf">[Paper]</a>
+    </li>
+    <li>
+      Traffic data imputation via knowledge graph-enhanced generative adversarial network <br>
+      Yinghui Liu, Guojiang Shen, Nali Liu, <Strong>Xiao Han</Strong>, Zhenhui Xu, Junjie Zhou, and Xiangjie Kong <br>
+      <em>PeerJ Computer Science</em> <br>
+      <a target="_blank" rel="noopener" href="https://peerj.com/articles/cs-2408/">[Paper]</a>
+    </li>
+
+
+<li>
       Spatio-temporal digraph convolutional network-based taxi pickup location recommendation <br>
       Yan Zhang, Guojiang Shen, <Strong>Xiao Han</Strong>, Wei Wang, and Xiangjie Kong <br>
       <em>IEEE Transactions on Industrial Informatics</em> <br>
@@ -165,11 +161,8 @@ author_profile: true
       <em>Sensors</em> <br>
       <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[Paper]</a>
   </li>
+    
 </ol>
-
-
-## Journal papers
-
 
 ## Tutorials
 <ol>
@@ -179,8 +172,29 @@ author_profile: true
          <em>The 19th International Symposium on Spatial and Temporal Data, 2025</em> Tutorial <br>
          <a target="_blank" rel="noopener" href="https://">[Paper]</a>
     </li> 
+    <li>
+        Web-Centric Human Mobility Analytics: Methods, Applications, and Future Directions in the LLM Era <br>
+        Zijian Zhang, Hao Miao, Yuxuan Liang, Yan Zhao, <Strong>Xiao Han</Strong>, Pengyue Jia, Bin Yang and Christian S. Jensen <br>
+        <em>The International World Wide Web Conference (<Strong>WWW</Strong>), 2025</em>, Tutorial <br>
+        <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2405.14702">[Paper]</a>
+        <a target="_blank" rel="noopener" href="https://human-mobility.github.io/">[Project page]</a>
+     </li>
 </ol>
 
 ## Workshop papers
+<ol>
+  
+</ol>
 
+
+
+## Others
+<ol>
+    <li>
+          The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning  <br>
+          <Strong>Xiao Han</Strong>  <br>
+          <a target="_blank" rel="noopener" href="https://hkaift.com/the-relationship-between-talent-mobility-and-corporate-sustainability-smart-risk-assessment-and-early-warning/">[LINK]</a>
+    </li>  
+  
+</ol>
 
