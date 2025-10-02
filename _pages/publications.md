@@ -18,10 +18,6 @@ author_profile: true
 -->
 
 ## Conference papers
-## Journal papers
-## Tutorials
-## Workshop papers
-
 
 
 
@@ -49,12 +45,7 @@ author_profile: true
      <a target="_blank" rel="noopener" href="https://">[Paper]</a>
   </li> 
   
-  <li>
-     Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends <br>
-     Zijian Zhang, <Strong>Xiao Han</Strong>, Xiangyu Zhao, Chenjuan Guo, Bin Yang <br>
-     <em>The 19th International Symposium on Spatial and Temporal Data, 2025</em> Tutorial <br>
-     <a target="_blank" rel="noopener" href="https://">[Paper]</a>
-  </li>  
+   
   
   <li>
       Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning  <br>
@@ -175,3 +166,21 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[Paper]</a>
   </li>
 </ol>
+
+
+## Journal papers
+
+
+## Tutorials
+<ol>
+    <li>
+         Learning from Spatio-Temporal Data in the LLM Era: Foundations, Models, and Emerging Trends <br>
+         Zijian Zhang, <Strong>Xiao Han</Strong>, Xiangyu Zhao, Chenjuan Guo, Bin Yang <br>
+         <em>The 19th International Symposium on Spatial and Temporal Data, 2025</em> Tutorial <br>
+         <a target="_blank" rel="noopener" href="https://">[Paper]</a>
+    </li> 
+</ol>
+
+## Workshop papers
+
+
