@@ -39,7 +39,7 @@ author_profile: true
   <li>
      Multi-modal Recommendation with Joint Content and Interaction Augmentation <br>
      Jiajie Deng, Haokun Wen, <Strong>Xiao Han</Strong>, Xuemeng Song, Xiangyu Zhao<br>
-     <em>ACM Multimedia Asia 2025</em>
+     <em>ACM Multimedia Asia, 2025</em>
   </li> 
   <li>
      FedGVD: Efficient Federated Graph Learning via Unidirectional Distillation with Dynamic Virtual Nodes <br>
@@ -73,13 +73,6 @@ author_profile: true
       <a target="_blank" rel="noopener" href="https://github.com/Applied-Machine-Learning-Lab/BISTRO">[Code]</a>  
   </li> 
   <li>
-      Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning <br>
-      <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang <br>
-      <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2023</em> <br>
-      <a target="_blank" rel="noopener" href="../Papers/KDD2023_PRLight.pdf">[Paper]</a>
-      <a target="_blank" rel="noopener" href="https://github.com/hahahenha/TPSCF">[Code]</a> 
-  </li>
-  <li>
       G3: An Effective and Adaptive Framework for Worldwide Geolocalization Using Large Multi-Modality Models <br>
       Pengyue Jia, Yiding Liu, Xiaopeng Li, Xiangyu Zhao, Yuhao Wang, YantongDu, <Strong>Xiao Han</Strong>, et. al. <br>
       <em>2024 Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2024</em> <br>
@@ -91,6 +84,13 @@ author_profile: true
       Yinghui Liu, Guojiang Shen, Chengyong Cui, Zhenzhen Zhao, <Strong>Xiao Han</Strong>, Jiaxin Du, Xiangyu Zhao, and Xiangjie Kong <br>
       <em>The 33rd International Joint Conference on Artificial Intelligence (<Strong>IJCAI</Strong>), 2024</em> <br>
       <a target="_blank" rel="noopener" href="https://www.ijcai.org/proceedings/2024/244">[Paper]</a>
+  </li>
+   <li>
+      Mitigating action hysteresis in traffic signal control with traffic predictive reinforcement learning <br>
+      <Strong>Xiao Han</Strong>, Xiangyu Zhao, Liang Zhang, and Wanyu Wang <br>
+      <em>The 29th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2023</em> <br>
+      <a target="_blank" rel="noopener" href="../Papers/KDD2023_PRLight.pdf">[Paper]</a>
+      <a target="_blank" rel="noopener" href="https://github.com/hahahenha/TPSCF">[Code]</a> 
   </li>
 </ol>
 
@@ -114,39 +114,34 @@ author_profile: true
       <em>IEEE Transactions on Vehicular Technology, 2024</em> <br>
       <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/10586793">[Paper]</a>
    </li>
-
-   <li>
-      Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network <br>
-      <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong <br>
-      <em>Transportation Research Part C: Emerging Technologies</em> <br>
-      <a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307774">[Paper]</a>
-    </li>
     <li>
       Traffic data imputation via knowledge graph-enhanced generative adversarial network <br>
       Yinghui Liu, Guojiang Shen, Nali Liu, <Strong>Xiao Han</Strong>, Zhenhui Xu, Junjie Zhou, and Xiangjie Kong <br>
-      <em>PeerJ Computer Science</em> <br>
+      <em>PeerJ Computer Science, 2024</em> <br>
       <a target="_blank" rel="noopener" href="https://peerj.com/articles/cs-2408/">[Paper]</a>
     </li>
-
-
-<li>
-      Spatio-temporal digraph convolutional network-based taxi pickup location recommendation <br>
-      Yan Zhang, Guojiang Shen, <Strong>Xiao Han</Strong>, Wei Wang, and Xiangjie Kong <br>
-      <em>IEEE Transactions on Industrial Informatics</em> <br>
-      <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9793719">[Paper]</a>
-  </li>
-  
+    <li>
+        Spatio-temporal digraph convolutional network-based taxi pickup location recommendation <br>
+        Yan Zhang, Guojiang Shen, <Strong>Xiao Han</Strong>, Wei Wang, and Xiangjie Kong <br>
+        <em>IEEE Transactions on Industrial Informatics, 2022</em> <br>
+        <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9793719">[Paper]</a>
+    </li>
   <li>
       An attention-based digraph convolution network enabled framework for congestion recognition in three-dimensional road networks <br>
       Guojiang Shen, <Strong>Xiao Han</Strong>, Kwai Sang Chin, and Xiangjie Kong <br>
-      <em>IEEE Transactions on Intelligent Transportation Systems</em> <br>
+      <em>IEEE Transactions on Intelligent Transportation Systems, 2021</em> <br>
       <a target="_blank" rel="noopener" href="https://ieeexplore.ieee.org/document/9626455">[Paper]</a>
   </li>
-  
+  <li>
+      Congestion Recognition for Hybrid Urban Road System via Digraph Convolutional Network <br>
+      <Strong>Xiao Han</Strong>, Guojiang Shen, Xi Yang, and Xiangjie Kong <br>
+      <em>Transportation Research Part C: Emerging Technologies, 2020</em> <br>
+      <a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/abs/pii/S0968090X20307774">[Paper]</a>
+    </li>
   <li>
       Traffic speed prediction: An attention-based method <br>
       Duanyang Liu, Longfeng Tang, Guojiang Shen, and <Strong>Xiao Han</Strong> <br>
-      <em>Sensors</em> <br>
+      <em>Sensors, 2019</em> <br>
       <a target="_blank" rel="noopener" href="https://www.mdpi.com/1424-8220/19/18/3836">[Paper]</a>
   </li>
     
@@ -184,7 +179,7 @@ author_profile: true
     <li>
       TITLE: MoE Enhanced Federated Learning for Spatiotemporal Prediction <br>
       Zhehao Dai, <Strong>Xiao Han*</Strong>, Zhaolin Deng, Zijian Zhang, Xiangyu Zhao, Guojiang Shen and Xiangjie Kong<br>
-      <em>STIntelligence workshop in CIKM 2025</em>
+      <em>STIntelligence workshop in CIKM, 2025</em>
     </li>
 </ol>
 
@@ -198,6 +193,7 @@ author_profile: true
     <li>
           The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning  <br>
           <Strong>Xiao Han</Strong>  <br>
+          BOC Connect app (中銀商聚), 2025.
           <a target="_blank" rel="noopener" href="https://hkaift.com/the-relationship-between-talent-mobility-and-corporate-sustainability-smart-risk-assessment-and-early-warning/">[LINK]</a>
     </li>  
   
