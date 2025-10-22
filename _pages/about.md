@@ -16,10 +16,11 @@ redirect_from:
 
 # Biography
 <hr style="margin-top: 8px; margin-bottom: 20px;">
-I'm currently an associate professor at Zhejiang University of Technology.
-Before that, I was a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
+I'm currently a research fellow at Zhejiang University of Technology.
+Before that, I was a research associate at Zhejiang University of Technology.
+I worked as a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
-I obtained the BSc and MSc degrees in computer science at Zhejiang University of Technology (ZJUT) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/).
+<!-- I obtained the BSc and MSc degrees in computer science at Zhejiang University of Technology (ZJUT) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/). -->
 
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
 If you are interested in collaborating with me or want to have a chat, always feel free to contact me through <a href="mailto:hahahenha@gmail.com">*hahahenha@gmail.com*</a>.
