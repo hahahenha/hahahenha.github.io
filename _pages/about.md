@@ -40,6 +40,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class="scrollable">
 
 <ul>
+    <li>[2026.01] Two papers have been accepted by WWW 2026. </li>
     <li>[2025.09] One paper has been accepted by NeurIPS 2025. </li>
     <li>[2025.08] Two regular papers & one workshop paper have been accepted by CIKM 2025. </li>
     <li>[2025.06] Our tutorial about Spatio-Temporal Data Mining got accepted in SSTD 2025. </li>
