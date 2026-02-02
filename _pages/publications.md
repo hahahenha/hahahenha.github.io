@@ -15,6 +15,20 @@ author_profile: true
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
   <li>
+    Multimodal Trajectory Representation Learning for Travel Time Estimation <br>
+    Zhi Liu, Xuyuan Hu, <Strong>Xiao Han</Strong>, Zhehao Dai, Zhaolin Deng, Guojiang Shen, and Xiangjie Kong <br>
+    <em>The ACM Web Conference 2026 (<Strong>WWW</Strong>), 2026</em> <br>
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2510.05840">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/City-Computing/MDTI">[Code]</a>
+  </li> 
+  <li>
+    BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations <br>
+    Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, <Strong>Xiao Han</Strong>, and Xiangyu Zhao <br>
+    <em>The ACM Web Conference 2026 (<Strong>WWW</Strong>), 2026</em> <br>
+    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2512.13368">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://github.com/ronineume/BlossomRec">[Code]</a>
+  </li> 
+  <li>
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning <br>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao <br>
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em> <br>
