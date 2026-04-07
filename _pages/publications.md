@@ -15,6 +15,21 @@ author_profile: true
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
   <li>
+    Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data <br>
+    FengXian Dong, Zhi Zheng, <Strong>Xiao Han</Strong>, Wei Chen, Jingqing Ruan, Tong Xu, Yong Chen, Enhong Chen
+    <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  (<Strong>ACL</Strong>), 2026</em> <br>
+  </li>
+  <li>
+    SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering <br>
+    FU Yuqing, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, <Strong>Xiao Han</Strong>, Maolin Wang, Xuetao Wei, Guoshuai Zhao, Li Zhu, Xueming Qian, Yi Chang, Xiangyu Zhao
+    <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  (<Strong>ACL</Strong>), 2026</em> <br>
+  </li>
+  <li>
+    HiMRAG: Hierarchical Retrieval-Augmented Generation for Macro-Aware Explainable Stock Movement Prediction <br>
+    Hongshi Liu, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, FU Yuqing, Yiqi Wang, <Strong>Xiao Han</Strong>, Maolin Wang, Xuetao Wei, Guoshuai Zhao, Li Zhu, Xueming Qian, Xiangyu Zhao
+    <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  (<Strong>ACL</Strong>), 2026</em> <br>
+  </li>
+  <li>
     Multimodal Trajectory Representation Learning for Travel Time Estimation <br>
     Zhi Liu, Xuyuan Hu, <Strong>Xiao Han*</Strong>, Zhehao Dai, Zhaolin Deng, Guojiang Shen, and Xiangjie Kong <br>
     <em>The ACM Web Conference 2026 (<Strong>WWW</Strong>), 2026</em> <br>
