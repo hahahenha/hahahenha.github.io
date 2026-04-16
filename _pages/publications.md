@@ -28,14 +28,14 @@ author_profile: true
     Multimodal Trajectory Representation Learning for Travel Time Estimation <br>
     Zhi Liu, Xuyuan Hu, <Strong>Xiao Han*</Strong>, Zhehao Dai, Zhaolin Deng, Guojiang Shen, and Xiangjie Kong <br>
     <em>The ACM Web Conference 2026 (<Strong>WWW</Strong>), 2026</em> <br>
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2510.05840">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3774904.3792388">[Paper]</a>
     <a target="_blank" rel="noopener" href="https://github.com/City-Computing/MDTI">[Code]</a>
   </li> 
   <li>
     BlossomRec: Block-level Fused Sparse Attention Mechanism for Sequential Recommendations <br>
     Mengyang Ma, Xiaopeng Li, Wanyu Wang, Zhaocheng Du, Jingtong Gao, Pengyue Jia, Yuyang Ye, Yiqi Wang, Yunpeng Weng, Weihong Luo, <Strong>Xiao Han*</Strong>, and Xiangyu Zhao <br>
     <em>The ACM Web Conference 2026 (<Strong>WWW</Strong>), 2026</em> <br>
-    <a target="_blank" rel="noopener" href="https://arxiv.org/abs/2512.13368">[Paper]</a>
+    <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/10.1145/3774904.3792408">[Paper]</a>
     <a target="_blank" rel="noopener" href="https://github.com/ronineume/BlossomRec">[Code]</a>
   </li> 
   <li>
@@ -125,6 +125,12 @@ author_profile: true
 ## Journal Papers
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
+  <li>
+    Dual-Feature Enhanced Graph Neural Network for Aspect Sentiment Triplet Extraction <br>
+    Linan Zhu, Jianlin Chen, <Strong>Xiao Han*</Strong>, Xiangfan Chen, Mengfei Xu, Guojiang Shen, Xiangjie Kong
+    <em>Neurocomputing, 2026.04</em> <br>
+    <a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/pii/S0925231226010519">[Paper]</a>
+  </li>
     <li>
         Leveraging temporal validity of rules via LLMs for enhanced temporal knowledge graph reasoning  <br>
         Qihong Pan, Limin Yao,Guojiang Shen, <Strong>Xiao Han</Strong>, Yichuan Chen, Xiangjie Kong  <br>
