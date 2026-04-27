@@ -39,7 +39,7 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
   <ul>
     <!--I currently serve as an Area Chair for KDD 2026 and have previously held positions such as Session Chair for KDD 2025, Publicity Chair & keynote speaker for CSECS 2026, and the Host for ICCNSE 2025. Additionally, I am a Program Committee member for conferences including AAAI, WWW, ACM MM, and IJCAI, a reviewer for journals like IEEE TITS, and the recipient of the KDD 2025 Outstanding Reviewer Award.-->
     <li>
-      Area Chair: KDD 2026 (AI4Science Track), Session Chair: KDD 2025, Publicity Chair: CSECS 2026, Host: ICCNSE 2025.
+      <strong> Area Chair: KDD 2026 (AI4Science Track) </strong>, Session Chair: KDD 2025, Publicity Chair: CSECS 2026, Host: ICCNSE 2025.
     </li>
     <li>
       Conference PC Member/Reviewer: KDD 2023-2026, NeurIPS 2024-2025, WWW 2024-2026, IJCAI 2024-2026, AAAI 2024-2025, MM 2026, ECCV 2026, SIGIR 2026, etc.
