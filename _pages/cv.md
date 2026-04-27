@@ -57,7 +57,8 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
-    <li>[2025] KDD 2025 Outstanding Reviewer Award </li>
+  <li>[2026.04] Zhejiang Province Overseas High-Level (Young) Talent Introduction</li>
+    <li>[2025.08] KDD 2025 Outstanding Reviewer Award </li>
     <li>[2021.06] Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
     <li>[2019.12] National Scholarship, Granted by: Ministry of Education, China </li>
 </ul>
@@ -93,7 +94,6 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 
 
 <ul>
-  <li>[2026.04] Zhejiang Province Overseas High-Level (Young) Talent Introduction</li>
   <li>[2026.04] Keynote speaker: CSECS 2026, Hangzhou, China.</li>
   <li>[2025.07] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
 </ul>
