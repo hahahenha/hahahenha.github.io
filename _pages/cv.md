@@ -52,39 +52,6 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 
 
 
-# Education & Work experience
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-<ul>
-  <li>[2025.07-Present] Associate Professor, Zhejiang University of Technology </li>
-  <li>[2021.09-2025.06] Ph.D & Postdoctoral Research Fellow in Data Science, City University of Hong Kong</li>
-  <li>[2018.09-2021.06] M.S. in Computer Science and Technology, Zhejiang University of Technology</li>
-  <li>[2014.09-2018.06] B.S. in Computer Science and Technology & Automation, Zhejiang University of Technology</li>
-</ul>
-
-
-<!--
-# Work experience
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-<ul>
-  <li>[2025.07-Present] Associate Professor, Zhejiang University of Technology </li>
-  <li>[2025.03-2025.06] Postdoctoral research fellow, City University of Hong Kong </li>
-</ul>
--->
-
-
-
-# Internships & Exchange
-<hr style="margin-top: 8px; margin-bottom: 20px;">
-
-<ul>
-   <li>[2023.11-2024.07] Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
-   <li>[2021.09-2024.12] Researcher, Lab for AI-Powered Fintech (Hong Kong). </li>
-   <li>[2020.09-2020.12] Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.</li>
-   <li>[2017.07-2018.06] Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou. </li>
-</ul>
-
-
-
 
 # Honors and Awards
 <hr style="margin-top: 8px; margin-bottom: 20px;">
@@ -95,6 +62,17 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
     <li>[2019.12] National Scholarship, Granted by: Ministry of Education, China </li>
 </ul>
 
+
+
+
+# Education & Work experience
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+<ul>
+  <li>[2025.07-Present] Associate Professor, Zhejiang University of Technology </li>
+  <li>[2021.09-2025.06] Ph.D & Postdoctoral Research Fellow in Data Science, City University of Hong Kong</li>
+  <li>[2018.09-2021.06] M.S. in Computer Science and Technology, Zhejiang University of Technology</li>
+  <li>[2014.09-2018.06] B.S. in Computer Science and Technology & Automation, Zhejiang University of Technology</li>
+</ul>
 
 
 
@@ -118,6 +96,29 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
   <li>[2026.04] Keynote speaker: CSECS 2026, Hangzhou, China.</li>
   <li>[2025.07] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
 </ul>
+
+
+
+# Internships & Exchange
+<hr style="margin-top: 8px; margin-bottom: 20px;">
+
+<ul>
+   <li>[2023.11-2024.07] Research Intern, Career Science Lab in BOSS Zhipin. Leader: <a target="_blank" rel="noopener" href="https://www.zhuhengshu.com/">Hengshu Zhu</a>, Chen Zhu.</li>
+   <li>[2021.09-2024.12] Researcher, Lab for AI-Powered Fintech (Hong Kong). </li>
+   <li>[2020.09-2020.12] Visiting Student, City University of Hong Kong. Supervisor: <a target="_blank" rel="noopener" href="https://scholars.cityu.edu.hk/en/persons/kwai-sang-chin">Kwai-Sang Chin</a>.</li>
+   <li>[2017.07-2018.06] Algorithm Engineer, Zhejiang Supcon Information Technology Co., Ltd. Leader: Junjie Zhou. </li>
+</ul>
+
+
+
+
+
+
+
+
+
+
+
 
 
 
