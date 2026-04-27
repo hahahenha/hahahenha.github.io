@@ -16,12 +16,12 @@ author_profile: true
 <ol>
   <li>
     Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data <br>
-    FengXian Dong, Zhi Zheng, <Strong>Xiao Han</Strong>, Wei Chen, Jingqing Ruan, Tong Xu, Yong Chen, Enhong Chen
+    FengXian Dong, Zhi Zheng, <Strong>Xiao Han</Strong>, Wei Chen, Jingqing Ruan, Tong Xu, Yong Chen, Enhong Chen<br>
     <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  (<Strong>ACL</Strong>), 2026</em> <br>
   </li>
   <li>
     SEARCH-R: Structured Entity-Aware Retrieval with Chain-of-Reasoning Navigator for Multi-hop Question Answering <br>
-    FU Yuqing, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, <Strong>Xiao Han</Strong>, Maolin Wang, Xuetao Wei, Guoshuai Zhao, Li Zhu, Xueming Qian, Yi Chang, Xiangyu Zhao
+    FU Yuqing, Yimin Deng, Wanyu Wang, Yuhao Wang, Yejing Wang, Hongshi Liu, Yiqi Wang, <Strong>Xiao Han</Strong>, Maolin Wang, Xuetao Wei, Guoshuai Zhao, Li Zhu, Xueming Qian, Yi Chang, Xiangyu Zhao<br>
     <em>Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics  (<Strong>ACL</Strong>), 2026</em> <br>
   </li>
   <li>
