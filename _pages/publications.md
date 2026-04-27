@@ -6,8 +6,8 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div>
-{% endif %} (<Strong> *: corresponding author</Strong>)
+  <div class="wordwrap">You can also find my articles on <a href="{{site.author.googlescholar}}">my Google Scholar profile</a>.</div> (<Strong> *: corresponding author</Strong>)
+{% endif %} 
 
 ## Conference Papers
 <hr style="margin-top: 8px; margin-bottom: 20px;">
