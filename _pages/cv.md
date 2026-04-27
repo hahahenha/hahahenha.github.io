@@ -93,6 +93,7 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 
 
 <ul>
+  <li>[2026.04] Zhejiang Province Overseas High-Level (Young) Talent Introduction</li>
   <li>[2026.04] Keynote speaker: CSECS 2026, Hangzhou, China.</li>
   <li>[2025.07] School of Computer Science and Technology, University of Science and Technology of China (USTC), Online.</li>
 </ul>
