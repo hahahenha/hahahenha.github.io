@@ -78,8 +78,8 @@ author_profile: true
      <!-- <a target="_blank" rel="noopener" href="https://">[Paper]</a> -->
   </li> 
    <li>
+      Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision <br> 
       Yuanshao Zhu, James Jianqiao Yu, Xiangyu Zhao, <Strong>Xiao Han</Strong>, Qidong Liu, Xuetao Wei, Yuxuan Liang <br> 
-      Learning Generalized and Flexible Trajectory Models from Omni-Semantic Supervision <br>
       <em>Thirty-First ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track, 2025</em> <br>
       <a target="_blank" rel="noopener" href="https://dl.acm.org/doi/abs/10.1145/3711896.3737019">[Paper]</a>
   </li> 
