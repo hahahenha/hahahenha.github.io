@@ -20,7 +20,7 @@ I am currently an Associate Professor at Zhejiang University of Technology.
 I worked as a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
 <!-- I obtained the BSc and MSc degrees in computer science at Zhejiang University of Technology (ZJUT) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/). 
-I currently serves as an Area Chair for KDD 2026 and has previously held positions such as Session Chair and Area Chair for KDD 2025, Publicity Chair & keynote speaker for CSECS 2026, and the Host for ICCNSE 2025. Additionally, I am a Program Committee member for conferences including AAAI, WWW, ACM MM, and IJCAI, a reviewer for journals like IEEE TITS, and the recipient of the KDD 2025 Outstanding Reviewer Award. -->
+I currently serve as an Area Chair for KDD 2026 and has previously held positions such as Session Chair and Area Chair for KDD 2025, Publicity Chair & keynote speaker for CSECS 2026, and the Host for ICCNSE 2025. Additionally, I am a Program Committee member for conferences including AAAI, WWW, ACM MM, and IJCAI, a reviewer for journals like IEEE TITS, and the recipient of the KDD 2025 Outstanding Reviewer Award. -->
 
 
 My research interests include Large Language Models, Learning Theory, City Computing, and Recommender Systems.
