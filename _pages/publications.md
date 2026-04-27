@@ -127,7 +127,7 @@ author_profile: true
 <ol>
   <li>
     Dual-Feature Enhanced Graph Neural Network for Aspect Sentiment Triplet Extraction <br>
-    Linan Zhu, Jianlin Chen, <Strong>Xiao Han*</Strong>, Xiangfan Chen, Mengfei Xu, Guojiang Shen, Xiangjie Kong
+    Linan Zhu, Jianlin Chen, <Strong>Xiao Han*</Strong>, Xiangfan Chen, Mengfei Xu, Guojiang Shen, Xiangjie Kong<br>
     <em>Neurocomputing, 2026.04</em> <br>
     <a target="_blank" rel="noopener" href="https://www.sciencedirect.com/science/article/pii/S0925231226010519">[Paper]</a>
   </li>
