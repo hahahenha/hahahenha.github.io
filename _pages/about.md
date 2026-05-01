@@ -41,7 +41,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class="scrollable">
 
 <ul>
-    <li>[2026.05] One paper have been accepted by ICML 2026 (Spotlight). </li>
+    <li>[2026.05] One paper have been accepted by ICML 2026 (Spotlight, Top 2.2%). </li>
     <li>[2026.04] Two papers have been accepted by ACL 2026 (one main, one finding). </li>
     <li>[2026.01] Two papers have been accepted by WWW 2026. </li>
     <li>[2025.09] One paper has been accepted by NeurIPS 2025. </li>
