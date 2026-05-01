@@ -15,7 +15,7 @@ author_profile: true
   <li>
     Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization <br>
     Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, Sheng Zhang, <Strong>Xiao Han</Strong>, Yichao Wang, Xiangyu Zhao<br>
-    <em>Proceedings of the 43 International Conference on Machine Learning (<Strong>ICML</Strong>), 2026</em>, spotlight 2.2% <br>
+    <em>Proceedings of the 43 International Conference on Machine Learning (<Strong>ICML</Strong>), 2026</em>, spotlight: top 2.2% <br>
   </li>
   <li>
     Memory-Augmented LLM-based Multi-Agent System for Automated Feature Generation on Tabular Data <br>
