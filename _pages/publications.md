@@ -228,7 +228,7 @@ author_profile: true
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
   <li>
-          Advances in Spectral Graph Neural Networks: Theory and Applications <strong>KEYNOTE</strong>  <br>
+          Advances in Spectral Graph Neural Networks: Theory and Applications (<strong>Keynote</strong>)  <br>
           <Strong>Xiao Han</Strong>  <br>
           IEEE ICCNSE, 2026.
     </li>  
