@@ -227,6 +227,11 @@ author_profile: true
 ## Others
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
+  <li>
+          Advances in Spectral Graph Neural Networks: Theory and Applications <strong>KEYNOTE</strong>  <br>
+          <Strong>Xiao Han</Strong>  <br>
+          IEEE ICCNSE, 2026.
+    </li>  
     <li>
           The Relationship Between Talent Mobility and Corporate Sustainability: Smart Risk Assessment and Early Warning  <br>
           <Strong>Xiao Han</Strong>  <br>
