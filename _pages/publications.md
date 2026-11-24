@@ -17,6 +17,11 @@ author_profile: true
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 <ol>
   <li>
+    <Strong>Xiao Han</Strong>, Pinbo Wang, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong,
+    MobiWave: Dispatch-Oriented Graph Wavelets and Drift-Guided Selective Optimization for Autonomous Fleet Rebalancing,
+    <em>Thirty-third ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track,  2027</em>.
+  </li>
+  <li>
     Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization <br>
     Junyi Li, Xiaowei Qian, Yingyi Zhang, Wenlin Zhang, Guojing Li, Sheng Zhang, <Strong>Xiao Han</Strong>, Yichao Wang, Xiangyu Zhao<br>
     <em>Proceedings of the 43 International Conference on Machine Learning (<Strong>ICML</Strong>), 2026</em>, spotlight: top 2.2% <br>
