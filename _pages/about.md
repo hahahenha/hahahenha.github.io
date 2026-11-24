@@ -68,6 +68,13 @@ If you are interested in collaborating with me or want to have a chat, always fe
 
 <ul>
   <li>
+    <Strong>Xiao Han</Strong>, Pinbo Wang, Yuanshao Zhu, Guojiang Shen, Xiangjie Kong,
+    MobiWave: Dispatch-Oriented Graph Wavelets and Drift-Guided Selective Optimization for Autonomous Fleet Rebalancing,
+    <em>Thirty-third ACM SIGKDD Conference on Knowledge Discovery and Data Mining (<Strong>KDD</Strong>), Research Track,  2027</em>.
+    <a target="_blank" rel="noopener" href="">[Paper]</a>
+    <a target="_blank" rel="noopener" href="">[Code]</a>
+  </li>
+  <li>
     <Strong>Xiao Han</Strong>, Zimo Zhao, Wanyu Wang, Maolin Wang, Zitao Liu, Yi Chang, and Xiangyu Zhao,
     Data Efficient Adaptation in Large Language Models via Continuous Low-Rank Fine-Tuning,
     <em>The Thirty-ninth Annual Conference on Neural Information Processing Systems (<Strong>NeurIPS</Strong>), 2025</em>.
