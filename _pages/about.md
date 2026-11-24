@@ -16,7 +16,7 @@ redirect_from:
 
 # Biography
 <hr style="margin-top: 8px; margin-bottom: 20px;">
-I am currently an Associate Professor at Zhejiang University of Technology.
+I am currently a Professor (University-Appointed) at Zhejiang University of Technology.
 I worked as a postdoctoral research fellow at [AML Lab](https://aml-cityu.github.io/) from City University of Hong Kong supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/).
 I obtained the PhD degree in data science from City University of Hong Kong (CityU) supervised by Prof. [Xiangyu Zhao](https://zhaoxyai.github.io/) and Prof. [Ding-Xuan Zhou](https://www.sydney.edu.au/science/about/our-people/academic-staff/dingxuan-zhou.html). 
 <!-- I obtained the BSc and MSc degrees in computer science at Zhejiang University of Technology (ZJUT) supervised by Prof. [Guojiang Shen](https://homepage.zjut.edu.cn//sgj/) and Prof. [Xiangjie Kong](http://www.cssclab.cn/xjkong/). 
@@ -41,6 +41,7 @@ If you are interested in collaborating with me or want to have a chat, always fe
 <div class="scrollable">
 
 <ul>
+    <li>[2026.11] One paper has been accepted by KDD 2027. </li>
     <li>[2026.08] Two papers have been accepted by CIKM 2026. </li>
     <li>[2026.05] One paper have been accepted by ICML 2026 (Spotlight, Top 2.2%). </li>
     <li>[2026.04] Two papers have been accepted by ACL 2026 (one main, one finding). </li>
