@@ -60,6 +60,7 @@ redirect_to: "https://www.hahahenha.net/static/CV/CV_HX.pdf"
 <hr style="margin-top: 8px; margin-bottom: 20px;">
 
 <ul>
+    <li>[2026.05] IJCAI 2026 Gold Tier Reviewer Award </li>
     <li>[2026.04] Zhejiang Province Overseas High-Level (Young) Talent</li>
     <li>[2025.08] KDD 2025 Outstanding Reviewer Award </li>
     <li>[2021.06] Outstanding Graduate, Granted by: Zhejiang Provincial Education Department, China </li>
